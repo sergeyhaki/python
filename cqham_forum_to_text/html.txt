@@ -1,1 +1,2748 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="ru" id="vbulletin_html"><head><!-- Forum Runner Begin --><script type="text/javascript" src="http://www.cqham.ru/forum/forumrunner/detect.js"></script><!-- Forum Runner End --><meta http-equiv="Content-Type" content="text/html; charset=windows-1251" /><meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://www.cqham.ru/forum" /><base href="http://www.cqham.ru/forum/" /><!--[if IE]></base><![endif]--><meta name="generator" content="vBulletin 4.1.12" /><link rel="Shortcut Icon" href="favicon.ico" type="image/x-icon" /><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/yuiloader-dom-event/yuiloader-dom-event.js"></script><script type="text/javascript"><!--if (typeof YAHOO === 'undefined') // Load ALL YUI Local{document.write('<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=4112"><\/script>');document.write('<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=4112"><\/script>');var yuipath = 'clientscript/yui';var yuicombopath = '';var remoteyui = false;}else// Load Rest of YUI remotely (where possible){var yuipath = 'http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build';var yuicombopath = '';var remoteyui = true;if (!yuicombopath){document.write('<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/connection/connection-min.js"><\/script>');}}var SESSIONURL = "s=42d3d3f597b56b103339ae8e1bedac3a&";var SECURITYTOKEN = "guest";var IMGDIR_MISC = "images/misc";var IMGDIR_BUTTON = "images/buttons";var vb_disable_ajax = parseInt("0", 10);var SIMPLEVERSION = "4112";var BBURL = "http://www.cqham.ru/forum";var LOGGEDIN = 0 > 0 ? true : false;var THIS_SCRIPT = "showthread";var RELPATH = "showthread.php?17385-Р›Р°РјРїРѕРІС‹Р№-RX-СЃ-РїСЂРµРѕР±СЂР°Р·РѕРІР°РЅРёРµРј-РІРІРµСЂС…";var PATHS = {forum : "",cms   : "",blog  : ""};var AJAXBASEURL = "http://www.cqham.ru/forum/";// --></script><script type="text/javascript" src="http://www.cqham.ru/forum/clientscript/vbulletin-core.js?v=4112"></script><link rel="alternate" type="application/rss+xml" title="Форум CQHAM.RU RSS лента" href="http://www.cqham.ru/forum/external.php?type=RSS2" /><link rel="alternate" type="application/rss+xml" title="Форум CQHAM.RU - Трансиверы, приемники КВ/УКВ - RSS лента" href="http://www.cqham.ru/forum/external.php?type=RSS2&amp;forumids=9" /><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/main-rollup.css?d=1447965182" />        <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/popupmenu-ie.css?d=1447965182" /><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/vbulletin-ie.css?d=1447965182" /><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/vbulletin-chrome-ie.css?d=1447965182" /><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/vbulletin-formcontrols-ie.css?d=1447965182" /><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/editor-ie.css?d=1447965182" /><![endif]--><link rel="stylesheet" type="text/css" href="css.php?styleid=18&amp;langid=2&amp;d=1447965182&amp;td=ltr&amp;sheet=vsq_comment.css" /><script type="text/javascript" src="http://www.cqham.ru/forum/clientscript/yui/selector/selector-min.js"></script><script type="text/javascript" src="http://www.cqham.ru/forum/clientscript/yui/event-delegate/event-delegate-min.js"></script><script type="text/javascript" src="http://www.cqham.ru/forum/clientscript/yui/animation/animation-min.js"></script><script type="text/javascript" src="http://www.cqham.ru/forum/clientscript/yui/animation/animation-sh.js"></script><script type="text/javascript" src="http://www.cqham.ru/forum/clientscript/vsqspoiler.js"></script><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/vsq_spoiler.css" /> <script type="text/javascript" src="clientscript/post_thanks.js"></script><style type="text/css">.postbitlegacy .postfoot .textcontrols a.post_thanks_button, .postbit .postfoot .textcontrols a.post_thanks_button  {    background: url(images/buttons/post_thanks.png) no-repeat transparent left;    padding-left: 20px;}.postbitlegacy .postfoot .textcontrols a.post_thanks_button:hover, .postbit .postfoot .textcontrols a.post_thanks_button:hover  {    background: url(images/buttons/post_thanks-hover.png) no-repeat transparent left;}</style> <meta name="keywords" content="резистора, этого, схему, сигнала, отпускания, резистор, нагрузил, порядок, 100к, этом, увидел, разницы, хэвисайда, этим, резистором, него, получаются, заявленные, 100мс, время, примерно, значения, увеличивается, времени, естественно, функцию, нагрузкой, разряжается, собрал, вчера, вечером, заряжается, преобразованием, вверх, погонял, осциллографом, аттенюатор, ламповый, вкл/выкл, имитировать, чтобы, тумблером, переключал, подавал, вход, 500кгц, уровень, входного, входе" /><meta name="description" content="Хочу поделиться информацией по одной из своих разработок. Это ламповый приёмник с преобразованием в верх. Цель разработки: Создать приёмник перекрывающий диапазон частот то 0,1 до 30Мгц. Виды модуляции АМ и SSB Весь приёмный тракт должен быть на лампах Преобразование в верх В первой ПЧ не применять дефицитный кварцевый фильтр, применить ФСС В первом смесителе попробовать применить нувистоны Проверить работу АРУ по третим сеткам ламп тракта ПЧ Ну и на конец, вспомнить молодость, то с" /><title> Ламповый RX с преобразованием вверх</title><link rel="canonical" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&s=42d3d3f597b56b103339ae8e1bedac3a" /><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/showthread-rollup.css?d=1447965182" /><!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/toolsmenu-ie.css?d=1447965182" /><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/postlist-ie.css?d=1447965182" /><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/showthread-ie.css?d=1447965182" /><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/postbit-ie.css?d=1447965182" /><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/poll-ie.css?d=1447965182" /><![endif]--><link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/additional.css?d=1447965182" /><link rel="stylesheet" type="text/css" href="css.php?styleid=18&langid=2&d=1447965182&sheet=MARCO1_CKEditor_CSS.css" /></head><body><div class="above_body"> <!-- closing tag is in template navbar --><div id="header" class="floatcontainer doc_header"><div><a name="top" href="http://www.cqham.ru" class="logo-image"><IMG height=13 src="nic.gif" width=5 border=0><font style="font-size: 9pt" color="#FFFFFF" face="Arial"><span style="padding:0px 15px;">Технический портал радиолюбителей России</span></font><br><IMG height=1 src="nic.gif" width=5 border=0><br><img src="images/misc/vbulletin4_logo.png" alt="CQHAM.RU" /></a><DIV STYLE="float:left; padding-top:12.0pt; padding-left:30.0pt;"><html><head><meta http-equiv='Content-Type' content='text/html; charset=windows-1251'><body leftmargin='0' topmargin='0' marginwidth='0' marginheight='0' style='background-color:transparent'><table width=100% border=0 cellpadding='0' cellspacing='0'><tr><td align=center><a href=http://www.yaesu.ru/tuner.php target=_top><img src=http://www.cqham.ru/forum/yaesu/7.gif width=1 height=1 alt="" border=0></a><br></td></tr></table></body></html></DIV></div><div id="toplinks" class="toplinks"><ul class="nouser"><li><a href="register.php?s=42d3d3f597b56b103339ae8e1bedac3a" rel="nofollow">Регистрация</a></li><li><a rel="help" href="faq.php?s=42d3d3f597b56b103339ae8e1bedac3a">Помощь</a></li><li><script type="text/javascript" src="clientscript/vbulletin_md5.js?v=4112"></script><form id="navbar_loginform" action="login.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)"><fieldset id="logindetails" class="logindetails"><div><div><input type="text" class="textbox default-value" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="Имя" /><input type="password" class="textbox" tabindex="102" name="vb_login_password" id="navbar_password" size="10" /><input type="text" class="textbox default-value" tabindex="102" name="vb_login_password_hint" id="navbar_password_hint" size="10" value="Пароль" style="display:none;" /><input type="submit" class="loginbutton" tabindex="104" value="Вход" title="Введите ваше имя пользователя и пароль, чтобы войти, или нажмите кнопку 'Регистрация', чтобы зарегистрироваться." accesskey="s" /></div></div></fieldset><input type="hidden" name="cookieuser" value="1" /><input type="hidden" name="s" value="42d3d3f597b56b103339ae8e1bedac3a" /><input type="hidden" name="securitytoken" value="guest" /><input type="hidden" name="do" value="login" /><input type="hidden" name="vb_login_md5password" /><input type="hidden" name="vb_login_md5password_utf" /></form><script type="text/javascript">YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");YAHOO.util.Dom.setStyle('navbar_password', "display", "none");vB_XHTML_Ready.subscribe(function(){//YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);YAHOO.util.Event.on('navbar_password', "blur", navbar_password);});function navbar_username_focus(e){//var textbox = YAHOO.util.Event.getTarget(e);if (textbox.value == 'Имя'){//textbox.value='';textbox.style.color='#000000';}}function navbar_username_blur(e){//var textbox = YAHOO.util.Event.getTarget(e);if (textbox.value == ''){//textbox.value='Имя';textbox.style.color='#777777';}}function navbar_password_hint(e){//var textbox = YAHOO.util.Event.getTarget(e);YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");YAHOO.util.Dom.get('navbar_password').focus();}function navbar_password(e){//var textbox = YAHOO.util.Event.getTarget(e);if (textbox.value == ''){YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");YAHOO.util.Dom.setStyle('navbar_password', "display", "none");}}</script></li></ul></div><div class="ad_global_header">  </div><hr /></div><div id="navbar" class="navbar"><ul id="navtabs" class="navtabs floatcontainer"><li class="selected"><a class="navtab" href="forum.php?s=42d3d3f597b56b103339ae8e1bedac3a">Форум</a><ul class="floatcontainer"><li><a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=getdaily&amp;contenttype=vBForum_Post">Сообщения за день</a></li><li><a rel="help" href="faq.php?s=42d3d3f597b56b103339ae8e1bedac3a" accesskey="5">Справка</a></li><li><a href="calendar.php?s=42d3d3f597b56b103339ae8e1bedac3a">Календарь</a></li><li class="popupmenu"><a href="javascript://" class="popupctrl" accesskey="6">Сообщество</a><ul class="popupbody popuphover"><li><a href="memberlist.php?s=42d3d3f597b56b103339ae8e1bedac3a">Пользователи</a></li></ul></li><li class="popupmenu"><a href="javascript://" class="popupctrl">Опции форума</a><ul class="popupbody popuphover"><li><a href="forumdisplay.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=markread&amp;markreadhash=guest">Все разделы прочитаны</a></li></ul></li><li class="popupmenu"><a href="javascript://" class="popupctrl" accesskey="3">Навигация</a><ul class="popupbody popuphover"><li><a href="showgroups.php?s=42d3d3f597b56b103339ae8e1bedac3a" rel="nofollow">Руководство сайта</a></li></ul></li></ul></li><li><a class="navtab" href="blog.php?s=42d3d3f597b56b103339ae8e1bedac3a">Дневники</a></li><li><a class="navtab" href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=getdaily&amp;contenttype=vBForum_Post" accesskey="2">Что нового?</a></li><li><a class="navtab" href="http://www.cqham.ru/foto/">Фотогалерея</a></li>        <li><a href="review.php" class="navtab">Обзоры</a></li><li><a href="misc.php?do=showrules" class="navtab">Правила</a></li></ul><div id="globalsearch" class="globalsearch"><form action="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=process" method="post" id="navbar_search" class="navbar_search"><input type="hidden" name="securitytoken" value="guest" /><input type="hidden" name="do" value="process" /><span class="textboxcontainer"><span><input type="text" value="" name="query" class="textbox" tabindex="99"/></span></span><span class="buttoncontainer"><span><input type="image" class="searchbutton" src="/forum/images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/></span></span></form><ul class="navbar_advanced_search"><li><a href="search.php?search_type=1?s=42d3d3f597b56b103339ae8e1bedac3a" accesskey="4">Расширенный поиск</a></li></ul></div></div></div><!-- closing div for above_body --><div class="body_wrapper"><div id="breadcrumb" class="breadcrumb"><ul class="floatcontainer"><li class="navbithome"><a href="index.php?s=42d3d3f597b56b103339ae8e1bedac3a" accesskey="1"><img src="images/misc/navbit-home.png" alt="Главная" /></a></li><li class="navbit"><a href="forum.php?s=42d3d3f597b56b103339ae8e1bedac3a">Форум</a></li><li class="navbit"><a href="forumdisplay.php?4-ТЕХНИЧЕСКИЕ-ФОРУМЫ-НА-CQHAM-RU&amp;s=42d3d3f597b56b103339ae8e1bedac3a">ТЕХНИЧЕСКИЕ ФОРУМЫ НА CQHAM.RU</a></li><li class="navbit"><a href="forumdisplay.php?9-Трансиверы-приемники-КВ-УКВ&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Трансиверы, приемники КВ/УКВ</a></li><li class="navbit lastnavbit"><span> Ламповый RX с преобразованием вверх</span></li></ul><hr /></div> <div id="ad_global_below_navbar"><div style="background-color: #FFFFFB"><!-- Яндекс.Директ --><script type="text/javascript">//<![CDATA[yandex_partner_id = 45493;yandex_direct_place = '45493';yandex_site_bg_color = 'FFFFFF';yandex_site_charset = 'windows-1251';yandex_ad_format = 'direct';yandex_font_size = 0.9;yandex_direct_title_font_size = 1;yandex_font_family = 'arial';yandex_direct_type = 'horizontal';yandex_direct_limit = 4;yandex_direct_title_color = '006699';yandex_direct_url_color = '006699';yandex_direct_all_color = '000000';yandex_direct_text_color = '000000';yandex_direct_hover_color = '6699CC';yandex_direct_favicon = true;document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc'+'ript>');//]]></script></div></div><form action="profile.php?do=dismissnotice" method="post" id="notices" class="notices"><input type="hidden" name="do" value="dismissnotice" /><input type="hidden" name="s" value="s=42d3d3f597b56b103339ae8e1bedac3a&amp;" /><input type="hidden" name="securitytoken" value="guest" /><input type="hidden" id="dismiss_notice_hidden" name="dismiss_noticeid" value="" /><input type="hidden" name="url" value="" /><ol><li class="restore" id="navbar_notice_1">Если это ваш первый визит, читайте справку по форуму. Для размещения своих сообщений необходимо зарегистрироваться. Для просмотра сообщений выберите раздел.</li></ol></form><div id="above_postlist" class="above_postlist"><div id="pagination_top" class="pagination_top"><form action="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page101&amp;s=42d3d3f597b56b103339ae8e1bedac3a" method="get" class="pagination popupmenu nohovermenu"><input type="hidden" name="t" value="17385" /><input type="hidden" name="s" value="42d3d3f597b56b103339ae8e1bedac3a" /><span><a href="javascript://" class="popupctrl">Страница 1 из 112</a></span><span class="selected"><a href="javascript://" title="Показано с 1 по 10 из 1,112">1</a></span><span><a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page2&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 11 по 20 из 1,112">2</a></span><span><a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page3&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 21 по 30 из 1,112">3</a></span><span><a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page4&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 31 по 40 из 1,112">4</a></span><span><a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page11&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 101 по 110 из 1,112"><!--+10-->11</a></span><span><a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page51&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 501 по 510 из 1,112"><!--+50-->51</a></span><span><a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page101&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 1,001 по 1,010 из 1,112"><!--+100-->101</a></span><span class="separator">...</span><span class="prev_next"><a rel="next" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page2&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Следующая страница - с 11 по 20 из 1,112"><img src="images/pagination/next-right.png" alt="Следующая" /></a></span><span class="first_last"><a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page112&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Последняя страница - с 1,111 по 1,112 из 1,112">Последняя<img src="images/pagination/last-right.png" alt="Последняя" /></a></span><ul class="popupbody popuphover"><li class="formsubmit jumptopage"><label>К странице: <input type="text" name="page" size="4" /></label> <input type="submit" class="button" value="Вперёд" /></li></ul></form><div id="postpagestats_above" class="postpagestats">Показано с 1 по 10 из 1112</div></div></div><div id="pagetitle" class="pagetitle"><h1>Тема: <span class="threadtitle"><a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&s=42d3d3f597b56b103339ae8e1bedac3a" title="Перезагрузить страницу">Ламповый RX с преобразованием вверх</a><div style="float: right"><script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script><div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="button" data-yashareQuickServices="vkontakte,facebook,twitter,odnoklassniki,moimir,lj" style= "height: 20px;"></div></div></span><h1></div><div id="thread_controls" class="thread_controls toolsmenu"><div><ul id="postlist_popups" class="postlist_popups popupgroup"><li class="popupmenu" id="threadtools"><h6><a class="popupctrl" href="javascript://">Опции темы</a></h6><ul class="popupbody popuphover"><li><a href="printthread.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;t=17385&amp;pp=10&amp;page=1" accesskey="3" rel="nofollow">Версия для печати</a></li><li><a href="dt.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;t=17385"rel="nofollow">Версия для печати всех страниц</a></li><li><a href="subscription.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=addsubscription&amp;t=17385" rel="nofollow">Подписаться на эту тему&hellip;</a></li></ul></li><li class="popupmenu searchthread menusearch" id="searchthread"><h6><a class="popupctrl" href="javascript://">Поиск по теме</a></h6><form action="search.php" method="post"><ul class="popupbody popuphover"><li><input type="text" name="query" class="searchbox" value="Поиск..." tabindex="13" /><input type="submit" class="button" value="Поиск" tabindex="14" /></li><li class="formsubmit" id="popupsearch"><div class="submitoptions">&nbsp;</div><div class="advancedsearchlink"><a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;search_type=1&amp;searchthreadid=17385&amp;contenttype=vBForum_Post">Расширенный поиск</a></div></li></ul><input type="hidden" name="s" value="42d3d3f597b56b103339ae8e1bedac3a" /><input type="hidden" name="securitytoken" value="guest" /><input type="hidden" name="do" value="process" /><input type="hidden" name="searchthreadid" value="17385" /><input type="hidden" name="search_type" value="1" /><input type="hidden" name="contenttype" value="vBForum_Post" /></form></li></ul></div></div><div id="postlist" class="postlist restrain"><ol id="posts" class="posts" start="1"><li class="postbitlegacy postbitim postcontainer old" id="post_512654"><!-- see bottom of postbit.css for .userinfo .popupmenu styles --><div class="posthead"><span class="postdate old"><span class="date">04.05.2011,&nbsp;<span class="time">14:17</span></span></span><span class="nodecontrols"><a name="post512654" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512654&amp;viewfull=1#post512654" class="postcounter">#1</a><a id="postcount512654" name="1"></a></span></div><div class="postdetails"><div class="userinfo"><div class="username_container"><div class="popupmenu memberaction"><a class="username offline popupctrl" href="member.php?1631-LY3BD&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="LY3BD вне форума"><strong>LY3BD</strong></a><ul class="popupbody popuphover memberaction_body"><li class="left"><a href="member.php?1631-LY3BD&amp;s=42d3d3f597b56b103339ae8e1bedac3a" class="siteicon_profile">Просмотр профиля</a></li><li class="right"><a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=finduser&amp;userid=1631&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">Сообщения форума</a></li><li class="left"><a href="private.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newpm&amp;u=1631" class="siteicon_message" rel="nofollow">Личное сообщение</a></li><li class="right"><a href="blog.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=1631" class="siteicon_blog" rel="nofollow">Записи в дневнике</a></li></ul></div><img class="inlineimg onlinestatus" src="images/cqham/statusicon/user-offline.png" alt="LY3BD вне форума" border="0" /></div><span class="usertitle"></span><a class="postuseravatar" href="member.php?1631-LY3BD&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="LY3BD вне форума"><img src="customavatars/avatar1631_2.gif" alt="Аватар для LY3BD" title="Аватар для LY3BD" /></a> <hr /><dl class="userinfo_extra"><dt>Регистрация</dt> <dd>03.08.2004</dd><dt>Адрес</dt> <dd>Вильнюс</dd><dt>Сообщений</dt> <dd>360</dd><dt>Позывной</dt>  <dd>LY3BD</dd></dl><div class="imlinks">    </div></div><div class="postbody"><div class="postrow"><h2 class="title icon">Ламповый RX с преобразованием вверх</h2><div class="content"><div id="post_message_512654"><blockquote class="postcontent restore ">Хочу поделиться информацией по одной из своих разработок. Это ламповый приёмник с преобразованием в верх. Цель разработки:<br />Создать приёмник перекрывающий диапазон частот то 0,1 до 30Мгц.<br />Виды модуляции АМ и SSB<br />Весь приёмный тракт должен быть на лампах<br />Преобразование в верх<br />В первой ПЧ не применять дефицитный кварцевый фильтр, применить ФСС<br />В первом смесителе попробовать применить нувистоны<br />Проверить работу АРУ по третим сеткам ламп тракта ПЧ<br />Ну и на конец, вспомнить молодость, то с чего начиналось моё радиолюбительство, вспомнить &quot;ламповый&quot; звук.<img src="images/smilies/icon_razz.gif" border="0" alt="" title="Razz" class="inlineimg" /><br />В результате получился приёмник почти полностью на лампах, кроме синтезатора, с преобразованием в верх, с тремя преобразованиями частоты.<br />Основные характеристики:<br />Чувствительность при соотношении С/Ш 10дб и полосе пропускания 3Кгц в режиме SSB, 0,8Мкв<br />Динамический диапозон по интермодуляции третьего порядка, при разносе частот двухчастотного сигнала 15Кгц, более 80Дб.<br />Более точно померить динамический диапазон не получилось, мешают шумы синтезатора. Они вылазят ранше чем появляются продукты интермодуляции. Синтезатор к сожалению не очень хороший по шумовым характеристикам. <br />Подавление побочных каналов приёма, более 60Дб<br />ПЧ1=60,7Мгц (ФСС, полоса пропускания 1Мгц)<br />ПЧ2=10,7Мгц (кварцевый фильтр с полосой прпускания 18Кгц)<br />ПЧ3=500Кгц (ЭМФ с полосами прпускания 3.0Кгц и 7,8Кгц)<br />Глубина режекции перестраиваемого режекторного фильтра по ПЧ3, более 50Дб<br />Потребляемая мощность от сети, 60Вт<br />Приёмник работает очень даже достойно, и это даже не смотря на то, что на входе приёмника нет ни каких полосовых фильтров, кроме ФНЧ с частотой среза 30Мгц. Первоначально входные фильры были предусмотрены в конструкции, но затем я от них отказался, реально они ни чего не давали кроме усложнения конструкции. Даже входной аттенюатор по большому счёту можно было не ставить, при уровне мешающего сигнала около 0,8В на входе приёмника от мастной вещательной радиостанции, проблем с приёмом не возникает. Приёмник звучит мягко, приятно на слух. Эфир &quot;выглядит прозрачно&quot;, не утомляет. Как пример выкладываю пару звуковых файлов. Запись сделана на диапазоне 80М, на самом &quot;грязном&quot; диапазоне, в городских условиях. Рекомендую слушать на хорошую акустику, а не наушники ТОН-2! <br />Если найдутся желающие ознакомиться с этой конструкцией более подробно или повторить её, то я могу выложить схемы и постараюсь ответить на вопросы. Правда схемы в виде моих рабочих черновиков, рисовать схемы на компьютере у меня получается очень медленно.<br />И последнее, кому эта тема не интересна, проходите мимо не &quot;задерживайтесь&quot;  , на всякого рода глупости отвечать не буду!<br /> <br /><a href="http://www.cqham.ru/forum/attachment.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;attachmentid=81592&amp;d=1304507593" id="attachment81592" target="_blank" rel="Lightbox_512654" target="_blank" ><img src="http://www.cqham.ru/forum/attachment.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;attachmentid=81592&amp;d=1304505110&amp;thumb=1" border="0" alt="Нажмите на изображение для увеличения.&nbsp;Название:лицевая паненль.jpg&nbsp;Просмотров:6805&nbsp;Размер:465.0 Кб&nbsp;ID:81592" class="thumbnail" style="float:CONFIG" /></a> <a href="http://www.cqham.ru/forum/attachment.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;attachmentid=81593&amp;d=1304507625" id="attachment81593" target="_blank" rel="Lightbox_512654" target="_blank" ><img src="http://www.cqham.ru/forum/attachment.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;attachmentid=81593&amp;d=1304507625&amp;thumb=1" border="0" alt="Нажмите на изображение для увеличения.&nbsp;Название:верх.jpg&nbsp;Просмотров:9234&nbsp;Размер:570.6 Кб&nbsp;ID:81593" class="thumbnail" style="float:CONFIG" /></a> <a href="http://www.cqham.ru/forum/attachment.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;attachmentid=81594&amp;d=1304507653" id="attachment81594" target="_blank" rel="Lightbox_512654" target="_blank" ><img src="http://www.cqham.ru/forum/attachment.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;attachmentid=81594&amp;d=1304505141&amp;thumb=1" border="0" alt="Нажмите на изображение для увеличения.&nbsp;Название:общий вид.jpg&nbsp;Просмотров:3572&nbsp;Размер:527.2 Кб&nbsp;ID:81594" class="thumbnail" style="float:CONFIG" /></a></blockquote></div><div class="attachments"><fieldset class="postcontent"><legend><img src="images/misc/paperclip.png" class="inlineimg" alt="Вложения" /> Вложения</legend><ul><!-- Embed Player --><!-- /Embed Player --><li><img class="inlineimg" src="images/attach/mp3.gif" alt="Тип файла: mp3" /><a href="attachment.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;attachmentid=81591&amp;d=1304507550">80-22.mp3</a> (300.9 Кб, Просмотров: 6568)</li><!-- Embed Player --><!-- /Embed Player --><li><img class="inlineimg" src="images/attach/mp3.gif" alt="Тип файла: mp3" /><a href="attachment.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;attachmentid=81590&amp;d=1304507550">80-11.mp3</a> (888.1 Кб, Просмотров: 4666)</li></ul></fieldset></div><!-- / attachments --></div></div><div class="cleardiv"></div></div></div><div class="postfoot"><!-- <div class="postfoot_container"> --><div class="textcontrols floatcontainer"><span class="postcontrols"><img style="display:none" id="progress_512654" src="images/misc/progress.gif" alt="" /><a id="qrwq_512654" class="newreply" href="newreply.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newreply&amp;p=512654" rel="nofollow" title="   "><img id="quoteimg_512654" src="clear.gif" alt="   " />     </a> </span><span class="postlinking"></span><!-- </div> --></div></div><hr /></li><li class="postbitlegacy postbitim" id="post_thanks_box_512654"><div class="postbody" style="margin-left: 0; margin-top: -13px; padding: 5px; padding-left: 4px; border-right: 1px solid rgb(200, 200, 200)"><div class="postrow" style="padding: 3px"><div class="content"><div id="post_thanks_bit_512654"><blockquote class="postcontent restore"><div style="padding: 1px; padding-left: 29px; font-size: 8.5pt; background-image: url('images/buttons/post_thanks_orange22.png'); background-origin: padding-box; background-position: 7px 50%; background-repeat: no-repeat">Спасибо от&nbsp;<a href="member.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=25518" rel="nofollow">Albertin</a>, <a href="member.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=10575" rel="nofollow">LY1SD</a>, <a href="member.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=8006" rel="nofollow">RN3GP</a>, <a href="member.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=22534" rel="nofollow">RV3RF</a>, <a href="member.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=798" rel="nofollow">RZ3DFZ</a>, <a href="member.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=13394" rel="nofollow">UR3INQ</a>, <a href="member.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=11729" rel="nofollow">UX0DC</a>, <a href="member.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=26412" rel="nofollow">wolf1605</a>, <a href="member.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=8369" rel="nofollow">Давид</a>, <a href="member.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=17458" rel="nofollow">Костя5656</a>, <a href="member.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=23682" rel="nofollow">СергейАлт</a> </div></blockquote></div></div></div></div><hr /></li> <li class="postbitlegacy postbitim postcontainer" id="after_first_post_yadirect"><div id="ya_direct_between_posts"><div class="posthead"><span class="postdate old">Реклама</span></div><div style="background-color: #FFFFFB; font-size: 8pt; float:left"><script type="text/javascript">//<![CDATA[yandex_partner_id = 45493;yandex_direct_place = '45493';yandex_site_bg_color = 'FFFFFF';yandex_site_charset = 'windows-1251';yandex_ad_format = 'direct';yandex_font_size = 1;yandex_font_family = 'arial';yandex_direct_type = 'horizontal';yandex_direct_limit = 4;yandex_direct_title_font_size = 1;yandex_direct_title_color = '006699';yandex_direct_title_font_size = 2;yandex_direct_url_color = '006699';yandex_direct_all_color = '000000';yandex_direct_text_color = '000000';yandex_direct_hover_color = '6699CC';yandex_direct_favicon = true;document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc'+'ript>');//]]></script></div><hr /></div></li><li class="postbitlegacy postbitim postcontainer old" id="post_512657"><!-- see bottom of postbit.css for .userinfo .popupmenu styles --><div class="posthead"><span class="postdate old"><span class="date">04.05.2011,&nbsp;<span class="time">14:27</span></span></span><span class="nodecontrols"><a name="post512657" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512657&amp;viewfull=1#post512657" class="postcounter">#2</a><a id="postcount512657" name="2"></a></span></div><div class="postdetails"><div class="userinfo"><div class="username_container"><div class="popupmenu memberaction"><a class="username offline popupctrl" href="member.php?12464-Ua3UtA&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Ua3UtA вне форума"><strong>Ua3UtA</strong></a><ul class="popupbody popuphover memberaction_body"><li class="left"><a href="member.php?12464-Ua3UtA&amp;s=42d3d3f597b56b103339ae8e1bedac3a" class="siteicon_profile">Просмотр профиля</a></li><li class="right"><a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=finduser&amp;userid=12464&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">Сообщения форума</a></li><li class="left"><a href="private.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newpm&amp;u=12464" class="siteicon_message" rel="nofollow">Личное сообщение</a></li><li class="right"><a href="blog.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=12464" class="siteicon_blog" rel="nofollow">Записи в дневнике</a></li></ul></div><img class="inlineimg onlinestatus" src="images/cqham/statusicon/user-offline.png" alt="Ua3UtA вне форума" border="0" /></div><span class="usertitle"></span><a class="postuseravatar" href="member.php?12464-Ua3UtA&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Ua3UtA вне форума"><img src="customavatars/avatar12464_4.gif" alt="Аватар для Ua3UtA" title="Аватар для Ua3UtA" /></a> <hr /><dl class="userinfo_extra"><dt>Регистрация</dt> <dd>09.02.2010</dd><dt>Адрес</dt> <dd>IV-09  Lo06oM</dd><dt>Сообщений</dt> <dd>2,006</dd><dt>Позывной</dt>  <dd>UA3UTA</dd></dl><div class="imlinks">    <a href="javascript://" onclick="imwindow('skype', '12464', 500, 340); return false;"><img src="images/misc/im_skype.gif" alt="Отправить сообщение для Ua3UtA с помощью Skype&trade;" /></a></div></div><div class="postbody_alt"><div class="postrow has_after_content"><div class="content"><div id="post_message_512657"><blockquote class="postcontent restore "><div class="bbcode_container"><div class="bbcode_quote"><div class="quote_container"><div class="bbcode_quote_container"></div><div class="bbcode_postedby"><img src="images/misc/quote_icon.png" alt="Цитата" /> Сообщение от <strong>LY3BD</strong><a href="showthread.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512654#post512654" rel="nofollow"><img class="inlineimg" src="images/buttons/viewpost-right.png" alt="Посмотреть сообщение" /></a></div><div class="message">Проверить работу АРУ по третим сеткам ламп тракта ПЧ</div></div></div></div>вот это в данный момент мне интересно(в связи с коренной реконструкцией ДИ-1).можно кусочек схемы подсмотреть?<br />звучание аппарата мне понравилось-насчет самого грязного диапазоны вы лукавите-у меня грязнее<img src="images/smilies/icon_razz.gif" border="0" alt="" title="Razz" class="inlineimg" /></blockquote></div></div></div><div class="after_content"><div class="signature restore"><div class="signature_separator"></div><div class="signaturecontainer">73! Сергей</div></div></div><div class="cleardiv"></div></div></div><div class="postfoot"><!-- <div class="postfoot_container"> --><div class="textcontrols floatcontainer"><span class="postcontrols"><img style="display:none" id="progress_512657" src="images/misc/progress.gif" alt="" /><a id="qrwq_512657" class="newreply" href="newreply.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newreply&amp;p=512657" rel="nofollow" title="   "><img id="quoteimg_512657" src="clear.gif" alt="   " />     </a> </span><span class="postlinking"></span><!-- </div> --></div></div><hr /></li><li class="postbitlegacy postbitim" id="post_thanks_box_512657" style="display:none"></li> <li class="postbitlegacy postbitim postcontainer old" id="post_512659"><!-- see bottom of postbit.css for .userinfo .popupmenu styles --><div class="posthead"><span class="postdate old"><span class="date">04.05.2011,&nbsp;<span class="time">14:33</span></span></span><span class="nodecontrols"><a name="post512659" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512659&amp;viewfull=1#post512659" class="postcounter">#3</a><a id="postcount512659" name="3"></a></span></div><div class="postdetails"><div class="userinfo"><div class="username_container"><div class="popupmenu memberaction"><a class="username online popupctrl" href="member.php?11954-labuda51&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="labuda51 на форуме"><strong>labuda51</strong></a><ul class="popupbody popuphover memberaction_body"><li class="left"><a href="member.php?11954-labuda51&amp;s=42d3d3f597b56b103339ae8e1bedac3a" class="siteicon_profile">Просмотр профиля</a></li><li class="right"><a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=finduser&amp;userid=11954&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">Сообщения форума</a></li><li class="left"><a href="private.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newpm&amp;u=11954" class="siteicon_message" rel="nofollow">Личное сообщение</a></li><li class="right"><a href="blog.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=11954" class="siteicon_blog" rel="nofollow">Записи в дневнике</a></li></ul></div><img class="inlineimg onlinestatus" src="images/cqham/statusicon/user-online.png" alt="labuda51 на форуме" border="0" /></div><span class="usertitle"></span> <hr /><dl class="userinfo_extra"><dt>Регистрация</dt> <dd>26.11.2009</dd><dt>Адрес</dt> <dd>ПИТЕР</dd><dt>Сообщений</dt> <dd>1,212</dd></dl><div class="imlinks">    </div></div><div class="postbody"><div class="postrow"><div class="content"><div id="post_message_512659"><blockquote class="postcontent restore ">Класс !</blockquote></div></div></div><div class="cleardiv"></div></div></div><div class="postfoot"><!-- <div class="postfoot_container"> --><div class="textcontrols floatcontainer"><span class="postcontrols"><img style="display:none" id="progress_512659" src="images/misc/progress.gif" alt="" /><a id="qrwq_512659" class="newreply" href="newreply.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newreply&amp;p=512659" rel="nofollow" title="   "><img id="quoteimg_512659" src="clear.gif" alt="   " />     </a> </span><span class="postlinking"></span><!-- </div> --></div></div><hr /></li><li class="postbitlegacy postbitim" id="post_thanks_box_512659" style="display:none"></li> <li class="postbitlegacy postbitim postcontainer old" id="post_512663"><!-- see bottom of postbit.css for .userinfo .popupmenu styles --><div class="posthead"><span class="postdate old"><span class="date">04.05.2011,&nbsp;<span class="time">14:48</span></span></span><span class="nodecontrols"><a name="post512663" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512663&amp;viewfull=1#post512663" class="postcounter">#4</a><a id="postcount512663" name="4"></a></span></div><div class="postdetails"><div class="userinfo"><div class="username_container"><div class="popupmenu memberaction"><a class="username offline popupctrl" href="member.php?7337-ex-RL7-A-Ata&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="ex RL7/ A-Ata вне форума"><strong>ex RL7/ A-Ata</strong></a><ul class="popupbody popuphover memberaction_body"><li class="left"><a href="member.php?7337-ex-RL7-A-Ata&amp;s=42d3d3f597b56b103339ae8e1bedac3a" class="siteicon_profile">Просмотр профиля</a></li><li class="right"><a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=finduser&amp;userid=7337&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">Сообщения форума</a></li><li class="left"><a href="private.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newpm&amp;u=7337" class="siteicon_message" rel="nofollow">Личное сообщение</a></li><li class="right"><a href="blog.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=7337" class="siteicon_blog" rel="nofollow">Записи в дневнике</a></li></ul></div><img class="inlineimg onlinestatus" src="images/cqham/statusicon/user-offline.png" alt="ex RL7/ A-Ata вне форума" border="0" /></div><span class="usertitle"></span><a class="postuseravatar" href="member.php?7337-ex-RL7-A-Ata&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="ex RL7/ A-Ata вне форума"><img src="images/avatars/023.jpg" alt="Аватар для ex RL7/ A-Ata" title="Аватар для ex RL7/ A-Ata" /></a> <hr /><dl class="userinfo_extra"><dt>Регистрация</dt> <dd>29.08.2007</dd><dt>Адрес</dt> <dd>К26</dd><dt>Сообщений</dt> <dd>2,796</dd></dl><div class="imlinks">    </div></div><div class="postbody_alt"><div class="postrow has_after_content"><div class="content"><div id="post_message_512663"><blockquote class="postcontent restore "><b>LY3BD</b>,с интересом жду дальнейшего рассказа о технических решениях,а также схемы.</blockquote></div></div></div><div class="after_content"><div class="signature restore"><div class="signature_separator"></div><div class="signaturecontainer">WIK, DF6PL<img src="images/smilies/icon_smile.gif" border="0" alt="" title="Smile" class="inlineimg" />...моё мнение &quot;Томас -Алва Эдисон ФОРЕВЕР!!&quot;</div></div></div><div class="cleardiv"></div></div></div><div class="postfoot"><!-- <div class="postfoot_container"> --><div class="textcontrols floatcontainer"><span class="postcontrols"><img style="display:none" id="progress_512663" src="images/misc/progress.gif" alt="" /><a id="qrwq_512663" class="newreply" href="newreply.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newreply&amp;p=512663" rel="nofollow" title="   "><img id="quoteimg_512663" src="clear.gif" alt="   " />     </a> </span><span class="postlinking"></span><!-- </div> --></div></div><hr /></li><li class="postbitlegacy postbitim" id="post_thanks_box_512663" style="display:none"></li> <li class="postbitlegacy postbitim postcontainer old" id="post_512674"><!-- see bottom of postbit.css for .userinfo .popupmenu styles --><div class="posthead"><span class="postdate old"><span class="date">04.05.2011,&nbsp;<span class="time">15:22</span></span></span><span class="nodecontrols"><a name="post512674" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512674&amp;viewfull=1#post512674" class="postcounter">#5</a><a id="postcount512674" name="5"></a></span></div><div class="postdetails"><div class="userinfo"><div class="username_container"><div class="popupmenu memberaction"><a class="username offline popupctrl" href="member.php?12046-konstantin-us5itp&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="konstantin us5itp вне форума"><strong>konstantin us5itp</strong></a><ul class="popupbody popuphover memberaction_body"><li class="left"><a href="member.php?12046-konstantin-us5itp&amp;s=42d3d3f597b56b103339ae8e1bedac3a" class="siteicon_profile">Просмотр профиля</a></li><li class="right"><a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=finduser&amp;userid=12046&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">Сообщения форума</a></li><li class="left"><a href="private.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newpm&amp;u=12046" class="siteicon_message" rel="nofollow">Личное сообщение</a></li><li class="right"><a href="blog.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=12046" class="siteicon_blog" rel="nofollow">Записи в дневнике</a></li></ul></div><img class="inlineimg onlinestatus" src="images/cqham/statusicon/user-offline.png" alt="konstantin us5itp вне форума" border="0" /></div><span class="usertitle"></span><a class="postuseravatar" href="member.php?12046-konstantin-us5itp&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="konstantin us5itp вне форума"><img src="customavatars/avatar12046_3.gif" alt="Аватар для konstantin us5itp" title="Аватар для konstantin us5itp" /></a> <hr /><dl class="userinfo_extra"><dt>Регистрация</dt> <dd>08.12.2009</dd><dt>Адрес</dt> <dd>донецкая обл.г.макеевка</dd><dt>Сообщений</dt> <dd>875</dd></dl><div class="imlinks">    <a href="javascript://" onclick="imwindow('skype', '12046', 500, 340); return false;"><img src="images/misc/im_skype.gif" alt="Отправить сообщение для konstantin us5itp с помощью Skype&trade;" /></a></div></div><div class="postbody"><div class="postrow has_after_content"><div class="content"><div id="post_message_512674"><blockquote class="postcontent restore ">Мне понравилось ,&quot; железо&quot;  сделано &quot;с любовью&quot;, да и звучит достойно - 10 баллов!<br />Инетересно на чем собран &quot;грязный&quot; синтезатор?</blockquote></div></div></div><div class="after_content"><div class="signature restore"><div class="signature_separator"></div><div class="signaturecontainer">us5itp konstantin. <br />Все приходяшее и уходящее ,а РАДИО - ВЕЧНО...!</div></div></div><div class="cleardiv"></div></div></div><div class="postfoot"><!-- <div class="postfoot_container"> --><div class="textcontrols floatcontainer"><span class="postcontrols"><img style="display:none" id="progress_512674" src="images/misc/progress.gif" alt="" /><a id="qrwq_512674" class="newreply" href="newreply.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newreply&amp;p=512674" rel="nofollow" title="   "><img id="quoteimg_512674" src="clear.gif" alt="   " />     </a> </span><span class="postlinking"></span><!-- </div> --></div></div><hr /></li><li class="postbitlegacy postbitim" id="post_thanks_box_512674" style="display:none"></li> <li class="postbitlegacy postbitim postcontainer old" id="post_512675"><!-- see bottom of postbit.css for .userinfo .popupmenu styles --><div class="posthead"><span class="postdate old"><span class="date">04.05.2011,&nbsp;<span class="time">15:25</span></span></span><span class="nodecontrols"><a name="post512675" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512675&amp;viewfull=1#post512675" class="postcounter">#6</a><a id="postcount512675" name="6"></a></span></div><div class="postdetails"><div class="userinfo"><div class="username_container"><div class="popupmenu memberaction"><a class="username offline popupctrl" href="member.php?12599-VOVA080808&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="VOVA080808 вне форума"><strong>VOVA080808</strong></a><ul class="popupbody popuphover memberaction_body"><li class="left"><a href="member.php?12599-VOVA080808&amp;s=42d3d3f597b56b103339ae8e1bedac3a" class="siteicon_profile">Просмотр профиля</a></li><li class="right"><a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=finduser&amp;userid=12599&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">Сообщения форума</a></li><li class="left"><a href="private.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newpm&amp;u=12599" class="siteicon_message" rel="nofollow">Личное сообщение</a></li><li class="right"><a href="blog.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=12599" class="siteicon_blog" rel="nofollow">Записи в дневнике</a></li></ul></div><img class="inlineimg onlinestatus" src="images/cqham/statusicon/user-offline.png" alt="VOVA080808 вне форума" border="0" /></div><span class="usertitle"></span><a class="postuseravatar" href="member.php?12599-VOVA080808&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="VOVA080808 вне форума"><img src="customavatars/avatar12599_5.gif" alt="Аватар для VOVA080808" title="Аватар для VOVA080808" /></a> <hr /><dl class="userinfo_extra"><dt>Регистрация</dt> <dd>03.03.2010</dd><dt>Адрес</dt> <dd>СНГ</dd><dt>Сообщений</dt> <dd>2,154</dd></dl><div class="imlinks">    </div></div><div class="postbody_alt"><div class="postrow"><div class="content"><div id="post_message_512675"><blockquote class="postcontent restore ">А синтез на какой микрухе ?</blockquote></div></div></div><div class="cleardiv"></div></div></div><div class="postfoot"><!-- <div class="postfoot_container"> --><div class="textcontrols floatcontainer"><span class="postcontrols"><img style="display:none" id="progress_512675" src="images/misc/progress.gif" alt="" /><a id="qrwq_512675" class="newreply" href="newreply.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newreply&amp;p=512675" rel="nofollow" title="   "><img id="quoteimg_512675" src="clear.gif" alt="   " />     </a> </span><span class="postlinking"></span><!-- </div> --></div></div><hr /></li><li class="postbitlegacy postbitim" id="post_thanks_box_512675" style="display:none"></li> <li class="postbitlegacy postbitim postcontainer old" id="post_512676"><!-- see bottom of postbit.css for .userinfo .popupmenu styles --><div class="posthead"><span class="postdate old"><span class="date">04.05.2011,&nbsp;<span class="time">15:37</span></span></span><span class="nodecontrols"><a name="post512676" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512676&amp;viewfull=1#post512676" class="postcounter">#7</a><a id="postcount512676" name="7"></a></span></div><div class="postdetails"><div class="userinfo"><div class="username_container"><div class="popupmenu memberaction"><a class="username offline popupctrl" href="member.php?1587-Serg007&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Serg007 вне форума"><strong>Serg007</strong></a><ul class="popupbody popuphover memberaction_body"><li class="left"><a href="member.php?1587-Serg007&amp;s=42d3d3f597b56b103339ae8e1bedac3a" class="siteicon_profile">Просмотр профиля</a></li><li class="right"><a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=finduser&amp;userid=1587&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">Сообщения форума</a></li><li class="left"><a href="private.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newpm&amp;u=1587" class="siteicon_message" rel="nofollow">Личное сообщение</a></li><li class="right"><a href="blog.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=1587" class="siteicon_blog" rel="nofollow">Записи в дневнике</a></li></ul></div><img class="inlineimg onlinestatus" src="images/cqham/statusicon/user-offline.png" alt="Serg007 вне форума" border="0" /></div><span class="usertitle"></span><a class="postuseravatar" href="member.php?1587-Serg007&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Serg007 вне форума"><img src="customavatars/avatar1587_2.gif" alt="Аватар для Serg007" title="Аватар для Serg007" /></a> <hr /><dl class="userinfo_extra"><dt>Регистрация</dt> <dd>20.07.2004</dd><dt>Адрес</dt> <dd>г.Луганск</dd><dt>Сообщений</dt> <dd>5,297</dd><dt>Записей в дневнике</dt><dd><a href="blog.php?1587&amp;s=42d3d3f597b56b103339ae8e1bedac3a">1</a></dd><dt>Позывной</dt>  <dd>US5MSQ</dd></dl><div class="imlinks">    </div></div><div class="postbody"><div class="postrow has_after_content"><div class="content"><div id="post_message_512676"><blockquote class="postcontent restore "><b>LY3BD</b>, <br />Браво, Александр - замечательная конструкция <img src="images/smilies/icon_super.gif" border="0" alt="" title="Super" class="inlineimg" />.<br />Хотелось бы больше информации (схем и фоток), зело любопытно</blockquote></div></div></div><div class="after_content"><div class="signature restore"><div class="signature_separator"></div><div class="signaturecontainer">Сергей  US5MSQ,  Радио - это очень просто!    <a href="http://us5msq.com.ua/" target="_blank">http://us5msq.com.ua/</a></div></div></div><div class="cleardiv"></div></div></div><div class="postfoot"><!-- <div class="postfoot_container"> --><div class="textcontrols floatcontainer"><span class="postcontrols"><img style="display:none" id="progress_512676" src="images/misc/progress.gif" alt="" /><a id="qrwq_512676" class="newreply" href="newreply.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newreply&amp;p=512676" rel="nofollow" title="   "><img id="quoteimg_512676" src="clear.gif" alt="   " />     </a> </span><span class="postlinking"></span><!-- </div> --></div></div><hr /></li><li class="postbitlegacy postbitim" id="post_thanks_box_512676" style="display:none"></li> <li class="postbitlegacy postbitim postcontainer old" id="post_512716"><!-- see bottom of postbit.css for .userinfo .popupmenu styles --><div class="posthead"><span class="postdate old"><span class="date">04.05.2011,&nbsp;<span class="time">17:32</span></span></span><span class="nodecontrols"><a name="post512716" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512716&amp;viewfull=1#post512716" class="postcounter">#8</a><a id="postcount512716" name="8"></a></span></div><div class="postdetails"><div class="userinfo"><div class="username_container"><div class="popupmenu memberaction"><a class="username offline popupctrl" href="member.php?4596-Валерий&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Валерий вне форума"><strong>Валерий</strong></a><ul class="popupbody popuphover memberaction_body"><li class="left"><a href="member.php?4596-Валерий&amp;s=42d3d3f597b56b103339ae8e1bedac3a" class="siteicon_profile">Просмотр профиля</a></li><li class="right"><a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=finduser&amp;userid=4596&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">Сообщения форума</a></li><li class="left"><a href="private.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newpm&amp;u=4596" class="siteicon_message" rel="nofollow">Личное сообщение</a></li><li class="right"><a href="blog.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=4596" class="siteicon_blog" rel="nofollow">Записи в дневнике</a></li></ul></div><img class="inlineimg onlinestatus" src="images/cqham/statusicon/user-offline.png" alt="Валерий вне форума" border="0" /></div><span class="usertitle"></span> <hr /><dl class="userinfo_extra"><dt>Регистрация</dt> <dd>18.06.2006</dd><dt>Сообщений</dt> <dd>807</dd><dt>Записей в дневнике</dt><dd><a href="blog.php?4596&amp;s=42d3d3f597b56b103339ae8e1bedac3a">1</a></dd><dt>Позывной</dt>  <dd>UY7QQ</dd></dl><div class="imlinks">    </div></div><div class="postbody_alt"><div class="postrow"><div class="content"><div id="post_message_512716"><blockquote class="postcontent restore ">Здравствуйте.<br />Очень приятно, что есть еще конструкторы, которые уделяют внимание звучанию апппарата и для этого используют лампы. Лампы еще долго будут жить.<br />Хотелось бы посмотреть схему. Хотя бы узлы.<br />Как все это получить?<br />Поздравляю с хорошей конструкцией.<br />Валерий, UY7QQ.<br />73!</blockquote></div></div></div><div class="cleardiv"></div></div></div><div class="postfoot"><!-- <div class="postfoot_container"> --><div class="textcontrols floatcontainer"><span class="postcontrols"><img style="display:none" id="progress_512716" src="images/misc/progress.gif" alt="" /><a id="qrwq_512716" class="newreply" href="newreply.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newreply&amp;p=512716" rel="nofollow" title="   "><img id="quoteimg_512716" src="clear.gif" alt="   " />     </a> </span><span class="postlinking"></span><!-- </div> --></div></div><hr /></li><li class="postbitlegacy postbitim" id="post_thanks_box_512716" style="display:none"></li> <li class="postbitlegacy postbitim postcontainer old" id="post_512718"><!-- see bottom of postbit.css for .userinfo .popupmenu styles --><div class="posthead"><span class="postdate old"><span class="date">04.05.2011,&nbsp;<span class="time">17:35</span></span></span><span class="nodecontrols"><a name="post512718" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512718&amp;viewfull=1#post512718" class="postcounter">#9</a><a id="postcount512718" name="9"></a></span></div><div class="postdetails"><div class="userinfo"><div class="username_container"><div class="popupmenu memberaction"><a class="username offline popupctrl" href="member.php?3367-sgk&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="sgk вне форума"><strong><span style="color: #008000">sgk</span></strong></a><ul class="popupbody popuphover memberaction_body"><li class="left"><a href="member.php?3367-sgk&amp;s=42d3d3f597b56b103339ae8e1bedac3a" class="siteicon_profile">Просмотр профиля</a></li><li class="right"><a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=finduser&amp;userid=3367&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">Сообщения форума</a></li><li class="left"><a href="private.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newpm&amp;u=3367" class="siteicon_message" rel="nofollow">Личное сообщение</a></li><li class="right"><a href="blog.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=3367" class="siteicon_blog" rel="nofollow">Записи в дневнике</a></li></ul></div><img class="inlineimg onlinestatus" src="images/cqham/statusicon/user-offline.png" alt="sgk вне форума" border="0" /></div><span class="usertitle">Модератор</span> <hr /><dl class="userinfo_extra"><dt>Регистрация</dt> <dd>23.10.2005</dd><dt>Адрес</dt> <dd>Ялта</dd><dt>Сообщений</dt> <dd>7,675</dd></dl><div class="imlinks">    </div></div><div class="postbody"><div class="postrow"><div class="content"><div id="post_message_512718"><blockquote class="postcontent restore "><div class="bbcode_container"><div class="bbcode_quote"><div class="quote_container"><div class="bbcode_quote_container"></div><div class="bbcode_postedby"><img src="images/misc/quote_icon.png" alt="Цитата" /> Сообщение от <strong>LY3BD</strong><a href="showthread.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512654#post512654" rel="nofollow"><img class="inlineimg" src="images/buttons/viewpost-right.png" alt="Посмотреть сообщение" /></a></div><div class="message"><font size="2">Динамический диапозон по интермодуляции третьего порядка, при разносе частот двухчастотного сигнала 15Кгц, более 80Дб.</font><br /><font size="2">Более точно померить динамический диапазон не получилось, мешают шумы синтезатора. Они вылазят ранше чем появляются продукты интермодуляции. Синтезатор к сожалению не очень хороший по шумовым характеристикам. </font></div></div></div></div><font size="2">Добрый день.</font><br /><font size="2">Для измерения IMD тракта можно вместо синтезатора подключить кварцевый генератор с заведомо меньшими фазовыми шумами.</font><br /><font size="2">Сергей sgk.</font></blockquote></div></div></div><div class="cleardiv"></div></div></div><div class="postfoot"><!-- <div class="postfoot_container"> --><div class="textcontrols floatcontainer"><span class="postcontrols"><img style="display:none" id="progress_512718" src="images/misc/progress.gif" alt="" /><a id="qrwq_512718" class="newreply" href="newreply.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newreply&amp;p=512718" rel="nofollow" title="   "><img id="quoteimg_512718" src="clear.gif" alt="   " />     </a> </span><span class="postlinking"></span><!-- </div> --></div></div><hr /></li><li class="postbitlegacy postbitim" id="post_thanks_box_512718" style="display:none"></li> <li class="postbitlegacy postbitim postcontainer" id="after_first_post_yadirect"><div id="ya_direct_between_posts"><div class="posthead"><span class="postdate old">Реклама</span></div><div style="background-color: #FFFFFB; font-size: 8pt; float:left"><script type="text/javascript">//<![CDATA[yandex_partner_id = 45493;yandex_direct_place = '45493';yandex_site_bg_color = 'FFFFFF';yandex_site_charset = 'windows-1251';yandex_ad_format = 'direct';yandex_font_size = 1;yandex_font_family = 'arial';yandex_direct_type = 'horizontal';yandex_direct_limit = 4;yandex_direct_title_font_size = 1;yandex_direct_title_color = '006699';yandex_direct_title_font_size = 2;yandex_direct_url_color = '006699';yandex_direct_all_color = '000000';yandex_direct_text_color = '000000';yandex_direct_hover_color = '6699CC';yandex_direct_favicon = true;document.write('<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js"></sc'+'ript>');//]]></script></div><hr /></div></li><li class="postbitlegacy postbitim postcontainer old" id="post_512730"><!-- see bottom of postbit.css for .userinfo .popupmenu styles --><div class="posthead"><span class="postdate old"><span class="date">04.05.2011,&nbsp;<span class="time">18:23</span></span></span><span class="nodecontrols"><a name="post512730" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512730&amp;viewfull=1#post512730" class="postcounter">#10</a><a id="postcount512730" name="10"></a></span></div><div class="postdetails"><div class="userinfo"><div class="username_container"><div class="popupmenu memberaction"><a class="username offline popupctrl" href="member.php?4-Vadim&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Vadim вне форума"><strong>Vadim</strong></a><ul class="popupbody popuphover memberaction_body"><li class="left"><a href="member.php?4-Vadim&amp;s=42d3d3f597b56b103339ae8e1bedac3a" class="siteicon_profile">Просмотр профиля</a></li><li class="right"><a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=finduser&amp;userid=4&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">Сообщения форума</a></li><li class="left"><a href="private.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newpm&amp;u=4" class="siteicon_message" rel="nofollow">Личное сообщение</a></li><li class="right"><a href="blog.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=4" class="siteicon_blog" rel="nofollow">Записи в дневнике</a></li></ul></div><img class="inlineimg onlinestatus" src="images/cqham/statusicon/user-offline.png" alt="Vadim вне форума" border="0" /></div><span class="usertitle"></span> <hr /><dl class="userinfo_extra"><dt>Регистрация</dt> <dd>25.03.2002</dd><dt>Адрес</dt> <dd>г.Москва</dd><dt>Сообщений</dt> <dd>917</dd></dl><div class="imlinks">    </div></div><div class="postbody_alt"><div class="postrow"><div class="content"><div id="post_message_512730"><blockquote class="postcontent restore "><div class="bbcode_container"><div class="bbcode_quote"><div class="quote_container"><div class="bbcode_quote_container"></div><div class="bbcode_postedby"><img src="images/misc/quote_icon.png" alt="Цитата" /> Сообщение от <strong>LY3BD</strong><a href="showthread.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512654#post512654" rel="nofollow"><img class="inlineimg" src="images/buttons/viewpost-right.png" alt="Посмотреть сообщение" /></a></div><div class="message">Хочу поделиться информацией по одной из своих разработок.  Приёмник звучит мягко, приятно на слух. Эфир &quot;выглядит прозрачно&quot;, не утомляет.</div></div></div></div>Мне звук понравился! Спасибо. Действительно, получаешь удовольствие от такого звука... Интересно было бы послушать более слабые сигналы и сигнал в присутствие нескольких сигналов одновременно.<br /> <br />С уважением, Вадим.</blockquote></div></div></div><div class="cleardiv"></div></div></div><div class="postfoot"><!-- <div class="postfoot_container"> --><div class="textcontrols floatcontainer"><span class="postcontrols"><img style="display:none" id="progress_512730" src="images/misc/progress.gif" alt="" /><a id="qrwq_512730" class="newreply" href="newreply.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newreply&amp;p=512730" rel="nofollow" title="   "><img id="quoteimg_512730" src="clear.gif" alt="   " />     </a> </span><span class="postlinking"></span><!-- </div> --></div></div><hr /></li><li class="postbitlegacy postbitim" id="post_thanks_box_512730" style="display:none"></li> </ol><div class="separator"></div><div class="postlistfoot"></div></div><div id="below_postlist" class="noinlinemod below_postlist">   <div id="pagination_bottom" class="pagination_bottom"><form action="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page101&amp;s=42d3d3f597b56b103339ae8e1bedac3a" method="get" class="pagination popupmenu nohovermenu"><input type="hidden" name="t" value="17385" /><input type="hidden" name="s" value="42d3d3f597b56b103339ae8e1bedac3a" /><span><a href="javascript://" class="popupctrl">Страница 1 из 112</a></span><span class="selected"><a href="javascript://" title="Показано с 1 по 10 из 1,112">1</a></span><span><a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page2&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 11 по 20 из 1,112">2</a></span><span><a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page3&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 21 по 30 из 1,112">3</a></span><span><a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page4&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 31 по 40 из 1,112">4</a></span><span><a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page11&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 101 по 110 из 1,112"><!--+10-->11</a></span><span><a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page51&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 501 по 510 из 1,112"><!--+50-->51</a></span><span><a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page101&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 1,001 по 1,010 из 1,112"><!--+100-->101</a></span><span class="separator">...</span><span class="prev_next"><a rel="next" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page2&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Следующая страница - с 11 по 20 из 1,112"><img src="images/pagination/next-right.png" alt="Следующая" /></a></span><span class="first_last"><a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page112&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Последняя страница - с 1,111 по 1,112 из 1,112">Последняя<img src="images/pagination/last-right.png" alt="Последняя" /></a></span><ul class="popupbody popuphover"><li class="formsubmit jumptopage"><label>К странице: <input type="text" name="page" size="4" /></label> <input type="submit" class="button" value="Вперёд" /></li></ul></form><div class="clear"></div><div class="navpopupmenu popupmenu nohovermenu" id="showthread_navpopup"><span class="shade">Быстрый переход</span><a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a" class="popupctrl"><span class="ctrlcontainer">Трансиверы, приемники КВ/УКВ</span></a><a href="showthread.php?17385-Р›Р°РјРїРѕРІС‹Р№-RX-СЃ-РїСЂРµРѕР±СЂР°Р·РѕРІР°РЅРёРµРј-РІРІРµСЂС…#top" class="textcontrol" onclick="document.location.hash='top';return false;">Вверх</a><ul class="navpopupbody popupbody popuphover"><li class="optionlabel">Навигация</li><li><a href="usercp.php?s=42d3d3f597b56b103339ae8e1bedac3a">Кабинет</a></li><li><a href="private.php?s=42d3d3f597b56b103339ae8e1bedac3a">Личные сообщения</a></li><li><a href="subscription.php?s=42d3d3f597b56b103339ae8e1bedac3a">Подписки</a></li><li><a href="online.php?s=42d3d3f597b56b103339ae8e1bedac3a">Кто на сайте</a></li><li><a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a">Поиск по форуму</a></li><li><a href="forum.php?s=42d3d3f597b56b103339ae8e1bedac3a">Главная страница форума</a></li><li class="optionlabel">Форум</li><li><a href="forumdisplay.php?4-ТЕХНИЧЕСКИЕ-ФОРУМЫ-НА-CQHAM-RU&amp;s=42d3d3f597b56b103339ae8e1bedac3a">ТЕХНИЧЕСКИЕ ФОРУМЫ НА CQHAM.RU</a><ol class="d1"><li><a href="forumdisplay.php?9-Трансиверы-приемники-КВ-УКВ&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Трансиверы, приемники КВ/УКВ</a><ol class="d2"><li><a href="forumdisplay.php?40-Kenwood&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Kenwood</a><ol class="d3"><li><a href="forumdisplay.php?59-TS-50&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-50</a></li><li><a href="forumdisplay.php?60-TS-140&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-140</a></li><li><a href="forumdisplay.php?61-TS-430&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-430</a></li><li><a href="forumdisplay.php?62-TS-440&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-440</a></li><li><a href="forumdisplay.php?63-TS-450&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-450</a></li><li><a href="forumdisplay.php?64-TS-480&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-480</a></li><li><a href="forumdisplay.php?76-TS-520&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-520</a></li><li><a href="forumdisplay.php?65-TS-570&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-570</a></li><li><a href="forumdisplay.php?66-TS-590&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-590</a></li><li><a href="forumdisplay.php?67-TS-680&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-680</a></li><li><a href="forumdisplay.php?68-TS-690&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-690</a></li><li><a href="forumdisplay.php?122-TS-790&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-790</a></li><li><a href="forumdisplay.php?69-TS-830&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-830</a></li><li><a href="forumdisplay.php?70-TS-850&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-850</a></li><li><a href="forumdisplay.php?71-TS-870&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-870</a></li><li><a href="forumdisplay.php?72-TS-930&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-930</a></li><li><a href="forumdisplay.php?73-TS-940&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-940</a></li><li><a href="forumdisplay.php?74-TS-950&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-950</a></li><li><a href="forumdisplay.php?129-TS-990&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-990</a></li><li><a href="forumdisplay.php?75-TS-2000&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-2000</a></li></ol></li><li><a href="forumdisplay.php?41-Icom&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Icom</a><ol class="d3"><li><a href="forumdisplay.php?45-IC-746-(IC-7400)&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-746 (IC-7400)</a></li><li><a href="forumdisplay.php?46-IC-756&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-756</a></li><li><a href="forumdisplay.php?47-IC-706&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-706</a></li><li><a href="forumdisplay.php?48-IC-775-IC-775DSP-IC-775DX2&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-775, IC-775DSP, IC-775DX2</a></li><li><a href="forumdisplay.php?49-IC-7600&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-7600</a></li><li><a href="forumdisplay.php?50-IC-7800&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-7800</a></li><li><a href="forumdisplay.php?51-IC-7700&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-7700</a></li><li><a href="forumdisplay.php?52-IC-910&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-910</a></li><li><a href="forumdisplay.php?53-IC-703&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-703</a></li><li><a href="forumdisplay.php?54-IC-7000&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-7000</a></li><li><a href="forumdisplay.php?55-IC-780-781&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-780, 781</a></li><li><a href="forumdisplay.php?56-IC-7200&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-7200</a></li><li><a href="forumdisplay.php?57-IC-718-(IC-78)&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-718 (IC-78)</a></li><li><a href="forumdisplay.php?58-IC-760-(IC-761)&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-760 (IC-761)</a></li></ol></li><li><a href="forumdisplay.php?42-Yaesu&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Yaesu</a><ol class="d3"><li><a href="forumdisplay.php?140-FT-100&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-100</a></li><li><a href="forumdisplay.php?78-FT-101&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-101</a></li><li><a href="forumdisplay.php?79-FT-450&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-450</a></li><li><a href="forumdisplay.php?80-FT-757&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-757</a></li><li><a href="forumdisplay.php?81-FT-767&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-767</a></li><li><a href="forumdisplay.php?82-FT-817&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-817</a></li><li><a href="forumdisplay.php?83-FT-840&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-840</a></li><li><a href="forumdisplay.php?84-FT-847&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-847</a></li><li><a href="forumdisplay.php?85-FT-857&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-857</a></li><li><a href="forumdisplay.php?86-FT-890&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-890</a></li><li><a href="forumdisplay.php?87-FT-897&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-897</a></li><li><a href="forumdisplay.php?88-FT-900&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-900</a></li><li><a href="forumdisplay.php?89-FT-920&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-920</a></li><li><a href="forumdisplay.php?90-FT-950&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-950</a></li><li><a href="forumdisplay.php?91-FT-990&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-990</a></li><li><a href="forumdisplay.php?92-FT-1000&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-1000</a></li><li><a href="forumdisplay.php?93-FT-2000&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-2000</a></li><li><a href="forumdisplay.php?141-FT-DX3000&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-DX3000</a></li><li><a href="forumdisplay.php?94-FT-DX5000&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-DX5000</a></li><li><a href="forumdisplay.php?95-FT-DX9000&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-DX9000</a></li></ol></li><li><a href="forumdisplay.php?96-Ten-Tec&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Ten-Tec</a></li><li><a href="forumdisplay.php?98-Elecraft&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Elecraft</a></li><li><a href="forumdisplay.php?97-Alinco&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Alinco</a></li><li><a href="forumdisplay.php?132-UW3DI&amp;s=42d3d3f597b56b103339ae8e1bedac3a">UW3DI</a></li><li><a href="forumdisplay.php?133-UA1FA&amp;s=42d3d3f597b56b103339ae8e1bedac3a">UA1FA</a></li><li><a href="forumdisplay.php?134-RA3AO&amp;s=42d3d3f597b56b103339ae8e1bedac3a">RA3AO</a></li><li><a href="forumdisplay.php?143-SW&amp;s=42d3d3f597b56b103339ae8e1bedac3a">SW</a></li></ol></li><li><a href="forumdisplay.php?21-Усилители-мощности&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Усилители мощности</a><ol class="d2"><li><a href="forumdisplay.php?113-КВ-усилители&amp;s=42d3d3f597b56b103339ae8e1bedac3a">КВ усилители</a></li><li><a href="forumdisplay.php?114-УКВ-усилители&amp;s=42d3d3f597b56b103339ae8e1bedac3a">УКВ усилители</a></li></ol></li><li><a href="forumdisplay.php?10-Антенны&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Антенны</a><ol class="d2"><li><a href="forumdisplay.php?99-Антенны-КВ&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Антенны КВ</a></li><li><a href="forumdisplay.php?119-Антенны-УКВ&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Антенны УКВ</a></li><li><a href="forumdisplay.php?102-Согласующие-устройства&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Согласующие устройства</a></li><li><a href="forumdisplay.php?101-Антенные-приборы&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Антенные приборы</a></li><li><a href="forumdisplay.php?103-Антенная-механика&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Антенная механика</a></li></ol></li><li><a href="forumdisplay.php?22-Техника-прямого-преобразования&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Техника прямого преобразования</a></li><li><a href="forumdisplay.php?7-Технический-кабинет&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Технический кабинет</a><ol class="d2"><li><a href="forumdisplay.php?142-Измерения&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Измерения</a></li><li><a href="forumdisplay.php?144-Технологии&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Технологии</a></li><li><a href="forumdisplay.php?124-Помехи&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Помехи</a></li><li><a href="forumdisplay.php?130-Непроверенные-идеи&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Непроверенные идеи</a></li></ol></li><li><a href="forumdisplay.php?8-Модификация-радиостанций&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Модификация радиостанций</a></li><li><a href="forumdisplay.php?27-Конструкции-на-микроконтроллерах-для-радиолюбителей&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Конструкции на микроконтроллерах для радиолюбителей</a></li><li><a href="forumdisplay.php?23-Старое-радио-(Ламповые-души)&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Старое радио (Ламповые души)</a><ol class="d2"><li><a href="forumdisplay.php?127-История-радиосвязи&amp;s=42d3d3f597b56b103339ae8e1bedac3a">История радиосвязи</a></li></ol></li><li><a href="forumdisplay.php?39-Бытовая-техника-мой-автомобиль&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Бытовая техника, мой автомобиль</a><ol class="d2"><li><a href="forumdisplay.php?125-Оргтехника&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Оргтехника</a></li><li><a href="forumdisplay.php?126-ТВ&amp;s=42d3d3f597b56b103339ae8e1bedac3a">ТВ</a></li><li><a href="forumdisplay.php?145-Авто-Мото&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Авто-Мото</a></li></ol></li><li><a href="forumdisplay.php?77-Источники-питания&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Источники питания</a></li></ol></li><li><a href="forumdisplay.php?34-РАДИОЛЮБИТЕЛЬСКИЕ-ФОРУМЫ&amp;s=42d3d3f597b56b103339ae8e1bedac3a">РАДИОЛЮБИТЕЛЬСКИЕ ФОРУМЫ</a><ol class="d1"><li><a href="forumdisplay.php?16-Для-любителей-КВ&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Для любителей КВ</a><ol class="d2"><li><a href="forumdisplay.php?104-DX-новости&amp;s=42d3d3f597b56b103339ae8e1bedac3a">DX-новости</a></li><li><a href="forumdisplay.php?105-Экспедиции&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Экспедиции</a></li><li><a href="forumdisplay.php?106-Соревнования&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Соревнования</a></li><li><a href="forumdisplay.php?107-Дипломы&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Дипломы</a></li><li><a href="forumdisplay.php?108-Прохождение&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Прохождение</a></li></ol></li><li><a href="forumdisplay.php?13-Для-любителей-УКВ&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Для любителей УКВ</a><ol class="d2"><li><a href="forumdisplay.php?118-УКВ-техника&amp;s=42d3d3f597b56b103339ae8e1bedac3a">УКВ техника</a></li><li><a href="forumdisplay.php?100-УКВ-антенны&amp;s=42d3d3f597b56b103339ae8e1bedac3a">УКВ антенны</a></li><li><a href="forumdisplay.php?120-УКВ-соревнования-дипломы&amp;s=42d3d3f597b56b103339ae8e1bedac3a">УКВ соревнования, дипломы</a></li><li><a href="forumdisplay.php?121-Программы-для-УКВ&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Программы для УКВ</a></li><li><a href="forumdisplay.php?109-Тропо-Аврора-и-Еs&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Тропо, Аврора и Еs</a></li><li><a href="forumdisplay.php?110-ЕМЕ-связи&amp;s=42d3d3f597b56b103339ae8e1bedac3a">ЕМЕ связи</a></li><li><a href="forumdisplay.php?111-MS-связи&amp;s=42d3d3f597b56b103339ae8e1bedac3a">MS связи</a></li><li><a href="forumdisplay.php?112-SAT-связи&amp;s=42d3d3f597b56b103339ae8e1bedac3a">SAT связи</a></li></ol></li><li><a href="forumdisplay.php?135-Для-любителей-QRP-и-QRPP&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Для любителей QRP и QRPP</a><ol class="d2"><li><a href="forumdisplay.php?138-Пешие-походы&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Пешие походы</a></li></ol></li><li><a href="forumdisplay.php?11-Программное-обеспечение&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Программное обеспечение</a><ol class="d2"><li><a href="forumdisplay.php?117-Софт-для-мобильных-устройств&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Софт для мобильных устройств</a></li></ol></li><li><a href="forumdisplay.php?29-Коллективы-и-Радио&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Коллективы и Радио</a><ol class="d2"><li><a href="forumdisplay.php?146-Silent-Keys&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Silent Keys</a></li></ol></li><li><a href="forumdisplay.php?14-Правовой-практикум-радиолюбителя&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Правовой практикум радиолюбителя</a></li><li><a href="forumdisplay.php?20-Для-начинающих&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Для начинающих</a></li></ol></li><li><a href="forumdisplay.php?35-НОВОЕ-В-РАДИОЛЮБИТЕЛЬСКОЙ-СВЯЗИ&amp;s=42d3d3f597b56b103339ae8e1bedac3a">НОВОЕ В РАДИОЛЮБИТЕЛЬСКОЙ СВЯЗИ</a><ol class="d1"><li><a href="forumdisplay.php?25-Цифровые-виды-связи-Новые-технологии-в-электронике-и-связи&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Цифровые виды связи  Новые технологии в электронике и связи</a></li><li><a href="forumdisplay.php?26-Software-Defined-Radio-(SDR)-Digital-Radio-Mondiale-(DRM)&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Software Defined Radio (SDR), Digital Radio Mondiale (DRM)</a></li><li><a href="forumdisplay.php?28-APRS-и-другие-виды-пакетной-связи&amp;s=42d3d3f597b56b103339ae8e1bedac3a">APRS и другие виды пакетной связи</a><ol class="d2"><li><a href="forumdisplay.php?147-Новости-и-события&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Новости и события</a></li><li><a href="forumdisplay.php?148-Применение-APRS-на-КВ-и-УКВ&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Применение APRS на КВ и УКВ</a></li><li><a href="forumdisplay.php?149-Аппаратура-APRS&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Аппаратура APRS</a></li><li><a href="forumdisplay.php?156-Самодельная-аппаратура-APRS&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Самодельная аппаратура APRS</a></li><li><a href="forumdisplay.php?150-Программное-обеспечение&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Программное обеспечение</a></li><li><a href="forumdisplay.php?153-Различное-применение-APRS&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Различное применение APRS</a></li><li><a href="forumdisplay.php?155-Цифровые-виды-связи-для-передачи-данных&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Цифровые виды связи для передачи данных</a></li><li><a href="forumdisplay.php?131-Радиолюбительские-карты&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Радиолюбительские карты</a></li></ol></li></ol></li><li><a href="forumdisplay.php?36-ПОДДЕРЖКА-ПОЛЬЗОВАТЕЛЕЙ-CQHAM-RU&amp;s=42d3d3f597b56b103339ae8e1bedac3a">ПОДДЕРЖКА ПОЛЬЗОВАТЕЛЕЙ CQHAM.RU</a><ol class="d1"><li><a href="forumdisplay.php?19-О-форумах-на-CQHAM-RU&amp;s=42d3d3f597b56b103339ae8e1bedac3a">О форумах на CQHAM.RU</a></li><li><a href="forumdisplay.php?38-Тестовый-форум&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Тестовый форум</a></li></ol></li><li><a href="forumdisplay.php?37-OFF-TOPIC&amp;s=42d3d3f597b56b103339ae8e1bedac3a">OFF-TOPIC</a><ol class="d1"><li><a href="forumdisplay.php?12-Темы-не-вошедшие-в-другие-разделы-форума&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Темы не вошедшие в другие разделы форума</a></li><li><a href="forumdisplay.php?18-Работа-для-радиолюбителя&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Работа для радиолюбителя</a></li><li><a href="forumdisplay.php?17-Продавцы-покупатели&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Продавцы, покупатели...</a></li><li><a href="forumdisplay.php?15-Ищу-тебя&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Ищу тебя</a></li><li><a href="forumdisplay.php?139-QRZ-RU&amp;s=42d3d3f597b56b103339ae8e1bedac3a">QRZ.RU</a></li></ol></li></ul></div><div class="clear"></div></div></div><!-- next / previous links --><div class="navlinks"><strong>&laquo;</strong><a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;goto=nextoldest" rel="nofollow">Предыдущая тема</a>|<a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;goto=nextnewest" rel="nofollow">Следующая тема</a><strong>&raquo;</strong></div><!-- / next / previous links --><div id="thread_info" class="thread_info block"><h4 class="threadinfohead blockhead">Информация о теме</h4><div id="thread_onlineusers" class="thread_info_block blockbody formcontrols"><div class="inner_block"><h5>Пользователи, просматривающие эту тему</h5><div><p>Эту тему просматривают: 2 <span class="shade">(пользователей: 0 , гостей: 2)</span></p><ol class="commalist"></ol></div></div></div><div id="similar_threads"><h4 class="threadinfohead blockhead">Похожие темы</h4><div id="similar_threads_list" class="thread_info_block blockbody formcontrols"><ol class="similar_threads"><li class="floatcontainer">  <div class="titleblock">    <h6><a href="showthread.php?15986-РПУ-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Здравствуйте уважаемые форумчане! Прежде всего, хочу поздравить всех с наступающим 2011годом!:-P дАвече, прогуливаясь по радиорынку, наткнулся на...">РПУ с преобразованием вверх</a></h6>    <div class="starter_forum">       от Lee в разделе Трансиверы, приемники КВ/УКВ    </div>  </div>  <div class="dateblock">    <span class="shade">Ответов:</span> 298      <div class="starter_forum">        <span class="shade">Последнее сообщение:</span> 06.02.2013, <span class="time">21:55</span>      </div>  </div></li><li class="floatcontainer">  <div class="titleblock">    <h6><a href="showthread.php?21455-Трансивер-на-основе-SA612-с-преобразованием-quot-вверх-quot&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Здравствуйте уважаемые форумчане!  Есть огромное желание и возможность собрать данную конструкцию. Встречал схемы трансиверов на sa612 только с ПЧ...">Трансивер на основе SA612 с преобразованием &quot;вверх&quot;</a></h6>    <div class="starter_forum">       от mike84 в разделе Трансиверы, приемники КВ/УКВ    </div>  </div>  <div class="dateblock">    <span class="shade">Ответов:</span> 31      <div class="starter_forum">        <span class="shade">Последнее сообщение:</span> 03.07.2012, <span class="time">22:22</span>      </div>  </div></li><li class="floatcontainer">  <div class="titleblock">    <h6><a href="showthread.php?17864-Первая-пч-10-7мгц-с-преобразованием-в-верх&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Друг попросил собрать трансивер на нч диапазоны с  первой пч 10.7мгц с преобразованием в верх с уводом на 500кгц Так как у него есть фильтр 10.7 с...">Первая пч 10.7мгц с преобразованием в верх</a></h6>    <div class="starter_forum">       от UR5VFT в разделе Технический кабинет    </div>  </div>  <div class="dateblock">    <span class="shade">Ответов:</span> 11      <div class="starter_forum">        <span class="shade">Последнее сообщение:</span> 09.09.2011, <span class="time">09:00</span>      </div>  </div></li><li class="floatcontainer">  <div class="titleblock">    <h6><a href="showthread.php?15917-Несложный-трансивер-с-двойным-преобразованием&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="А как смотрите на такой проект?">Несложный трансивер с двойным преобразованием</a></h6>    <div class="starter_forum">       от Валерий в разделе Для начинающих    </div>  </div>  <div class="dateblock">    <span class="shade">Ответов:</span> 30      <div class="starter_forum">        <span class="shade">Последнее сообщение:</span> 25.12.2010, <span class="time">18:00</span>      </div>  </div></li><li class="floatcontainer">  <div class="titleblock">    <h6><a href="showthread.php?8062-Какая-антенна-лучше-InV-с-лучами-вниз-или-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Антенна для дачного участка. Можно поставить одну мачту и от нее опустить плечи диполя вниз. Получится InV то что называется классическая. А если с...">Какая антенна лучше: InV с лучами вниз или вверх?</a></h6>    <div class="starter_forum">       от R0SBD в разделе Антенны    </div>  </div>  <div class="dateblock">    <span class="shade">Ответов:</span> 39      <div class="starter_forum">        <span class="shade">Последнее сообщение:</span> 28.05.2008, <span class="time">11:47</span>      </div>  </div></li></ol></div></div><div class="options_block_container"><div class="options_block"><h4 class="collapse blockhead options_correct"><a class="collapse" id="collapse_posting_rules" href="showthread.php?17385-Р›Р°РјРїРѕРІС‹Р№-RX-СЃ-РїСЂРµРѕР±СЂР°Р·РѕРІР°РЅРёРµРј-РІРІРµСЂС…#top"><img src="images/buttons/collapse_40b.png" alt="" /></a>Ваши права</h4><div id="posting_rules" class="thread_info_block blockbody formcontrols floatcontainer options_correct"><div id="forumrules" class="info_subblock"><ul class="youcandoblock"><li>Вы <strong>не можете</strong> создавать новые темы</li><li>Вы <strong>не можете</strong> отвечать в темах</li><li>Вы <strong>не можете</strong> прикреплять вложения</li><li>Вы <strong>не можете</strong> редактировать свои сообщения</li><li>&nbsp;</li></ul><div class="bbcodeblock"><ul><li><a href="misc.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=bbcode" target="_blank">BB коды</a> <strong>Вкл.</strong></li><li><a href="misc.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=showsmilies" target="_blank">Смайлы</a> <strong>Вкл.</strong></li><li><a href="misc.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=bbcode#imgcode" target="_blank">[IMG]</a> код <strong>Вкл.</strong></li><li><a href="misc.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=bbcode#videocode" target="_blank">[VIDEO]</a> код <strong>Вкл.</strong></li><li>HTML код <strong>Выкл.</strong></li></ul></div><p class="rules_link"><a href="misc.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=showrules" target="_blank">Правила форума</a></p></div></div></div></div></div><div style="clear: left">     <div id="ad_global_above_footer"><!--выше google--><div style="background-color: #FFFFFB"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 970 для низа форума --><ins class="adsbygoogle"     style="display:inline-block;width:970px;height:90px"     data-ad-client="ca-pub-8918103505273586"     data-ad-slot="8940420109"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div><br><table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#f0f3f7">  <tr>    <td width="100%"><div align="center"><center><table border="0" cellpadding="5" cellspacing="0" bgcolor="#f0f3f7" width="397"><tr><td width="30"><a href="http://www.cqham.ru/ric.htm"><img border="0" src="http://www.cqham.ru/ric.gif" alt="Russian Internet Callbook" width="44" height="22"></a></td><td width="31"><a href="http://www.cqham.ru/hamftp.htm"><img    src="http://www.cqham.ru/disk2.gif"    alt="Файловый архив сервера. Содержит программы радиолюбительской тематики и не только..."    border="0" width="32" height="32"></a></td><td width="34"><a href="http://www.cqham.ru/hamlinks.htm"><img    src="http://www.cqham.ru/go.gif"    alt="Ссылки на личные странички Кубанских радиолюбителей, а также на другие места в интернете, свяэанные с радиолюбительством."    border="0" width="32" height="32"></a></td><td width="34"><a href="http://www.cqham.ru/info.htm"><img    src="http://www.cqham.ru/info1.gif"    alt="Информация Госсвязьнадзора по Краснодарскому краю. Здесь же список УКВ любительских ретрансляторов расположеных на территории Краснодарского края."    border="0" width="32" height="32"></a></td><td width="34"><a href="http://www.cqham.ru/cons.htm"><img    src="http://www.cqham.ru/d2.gif"    alt="Схемы и описания трансиверов, усилителей, антенн и другой радиолюбительской аппаратуры. Конструкции Кубанских радиолюбителей. Справочные данные." border="0"    width="32" height="32"></a></td><td width="34"><a href="http://board.cqham.ru/"><img    src="http://www.cqham.ru/pinup0b.gif"    alt="Доска обьявлений сервера. Бесплатные обьявления радиолюбительской тематики - " продам, обменяю....""    border="0" width="32" height="32" куплю,></a></td><td width="67" style="font-size: 20px; font-family: Comic Sans MS; color: #3E86AC; font-weight: bold"><a href="http://www.cqham.ru/index.html">HOME</a></td></tr></table></center></div></td>  </tr></table></div><div id="footer" class="floatcontainer footer"><form action="forum.php" method="get" id="footer_select" class="footer_select"><select name="styleid" onchange="switch_id(this, 'style')"><optgroup label="Выбор стиля"><option class="hidden"></option></optgroup><optgroup label="&nbsp;Стандартные стили"><option value="18" class="" selected="selected">-- CQHAM</option></optgroup><optgroup label="&nbsp;Мобильные стили"><option value="19" class="" >-- CQHAM Mobile</option></optgroup></select><select name="langid" onchange="switch_id(this, 'lang')"><optgroup label="Выбор языка"><option value="1" class="" >-- English (EN)</option><option value="2" class="" selected="selected">-- Russian (RU)</option></optgroup></select></form><ul id="footer_links" class="footer_links"><li><a href="sendmessage.php?s=42d3d3f597b56b103339ae8e1bedac3a" rel="nofollow" accesskey="9">Обратная связь</a></li><li><a href="http://www.cqham.ru">CQHAM.RU</a></li><li><a href="archive/index.php?s=42d3d3f597b56b103339ae8e1bedac3a">Архив</a></li><li><a href="showthread.php?17385-Р›Р°РјРїРѕРІС‹Р№-RX-СЃ-РїСЂРµРѕР±СЂР°Р·РѕРІР°РЅРёРµРј-РІРІРµСЂС…#top" onclick="document.location.hash='top'; return false;">Вверх</a></li></ul><script type="text/javascript"><!--// Main vBulletin Javascript InitializationvBulletin_init();//--></script>        </div></div> <!-- closing div for body_wrapper --><div class="below_body"><div id="footer_time" class="shade footer_time">Текущее время: <span class="time">23:10</span>. Часовой пояс GMT +3.</div><noindex><div id="footer_copyright" class="shade footer_copyright"><!-- Do not remove this copyright notice -->Powered by <a href="https://www.vbulletin.com" id="vbulletinlink">vBulletin&reg;</a> Version 4.1.12 <br />Copyright &copy; 2016 vBulletin Solutions, Inc. All rights reserved.<br />Перевод: <a href="http://www.zcarot.com/" target="_blank">zCarot</a><br />Forum Modifications By <a href="http://www.marcomamdouh.com/" title="Marco Mamdouh">Marco Mamdouh</a><!-- Do not remove this copyright notice --></noindex><table border="0" width="100%" cellspacing="0" cellpadding="3" style="font-family: Arial; font-size: 10px"><tr><td><!--417323794992--></td></tr></table></div><div id="footer_morecopyright" class="shade footer_morecopyright"><!-- Do not remove cronimage or your scheduled tasks will cease to function --><!-- Do not remove cronimage or your scheduled tasks will cease to function --></div> </div></body></html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="ru" id="vbulletin_html">
+<head>
+<!-- Forum Runner Begin -->
+<script type="text/javascript" src="http://www.cqham.ru/forum/forumrunner/detect.js">
+</script>
+<!-- Forum Runner End -->
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<meta id="e_vb_meta_bburl" name="vb_meta_bburl" content="http://www.cqham.ru/forum" />
+<base href="http://www.cqham.ru/forum/" />
+<!--[if IE]>
+</base>
+<![endif]-->
+<meta name="generator" content="vBulletin 4.1.12" />
+<link rel="Shortcut Icon" href="favicon.ico" type="image/x-icon" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/yuiloader-dom-event/yuiloader-dom-event.js">
+</script>
+<script type="text/javascript">
+<!--if (typeof YAHOO === 'undefined') // Load ALL YUI Local{document.write('
+<script type="text/javascript" src="clientscript/yui/yuiloader-dom-event/yuiloader-dom-event.js?v=4112">
+<\/script>');document.write('
+<script type="text/javascript" src="clientscript/yui/connection/connection-min.js?v=4112">
+<\/script>');var yuipath = 'clientscript/yui';var yuicombopath = '';var remoteyui = false;}else// Load Rest of YUI remotely (where possible){var yuipath = 'http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build';var yuicombopath = '';var remoteyui = true;if (!yuicombopath){document.write('
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/yui/2.9.0/build/connection/connection-min.js">
+<\/script>');}}var SESSIONURL = "s=42d3d3f597b56b103339ae8e1bedac3a&";var SECURITYTOKEN = "guest";var IMGDIR_MISC = "images/misc";var IMGDIR_BUTTON = "images/buttons";var vb_disable_ajax = parseInt("0", 10);var SIMPLEVERSION = "4112";var BBURL = "http://www.cqham.ru/forum";var LOGGEDIN = 0 > 0 ? true : false;var THIS_SCRIPT = "showthread";var RELPATH = "showthread.php?17385-Р›Р°РјРїРѕРІС‹Р№-RX-СЃ-РїСЂРµРѕР±СЂР°Р·РѕРІР°РЅРёРµРј-РІРІРµСЂС…";var PATHS = {forum : "",cms   : "",blog  : ""};var AJAXBASEURL = "http://www.cqham.ru/forum/";// -->
+</script>
+<script type="text/javascript" src="http://www.cqham.ru/forum/clientscript/vbulletin-core.js?v=4112">
+</script>
+<link rel="alternate" type="application/rss+xml" title="Форум CQHAM.RU RSS лента" href="http://www.cqham.ru/forum/external.php?type=RSS2" />
+<link rel="alternate" type="application/rss+xml" title="Форум CQHAM.RU - Трансиверы, приемники КВ/УКВ - RSS лента" href="http://www.cqham.ru/forum/external.php?type=RSS2&amp;forumids=9" />
+<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/main-rollup.css?d=1447965182" />        
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/popupmenu-ie.css?d=1447965182" />
+<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/vbulletin-ie.css?d=1447965182" />
+<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/vbulletin-chrome-ie.css?d=1447965182" />
+<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/vbulletin-formcontrols-ie.css?d=1447965182" />
+<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/editor-ie.css?d=1447965182" />
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="css.php?styleid=18&amp;langid=2&amp;d=1447965182&amp;td=ltr&amp;sheet=vsq_comment.css" />
+<script type="text/javascript" src="http://www.cqham.ru/forum/clientscript/yui/selector/selector-min.js">
+</script>
+<script type="text/javascript" src="http://www.cqham.ru/forum/clientscript/yui/event-delegate/event-delegate-min.js">
+</script>
+<script type="text/javascript" src="http://www.cqham.ru/forum/clientscript/yui/animation/animation-min.js">
+</script>
+<script type="text/javascript" src="http://www.cqham.ru/forum/clientscript/yui/animation/animation-sh.js">
+</script>
+<script type="text/javascript" src="http://www.cqham.ru/forum/clientscript/vsqspoiler.js">
+</script>
+<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/vsq_spoiler.css" /> 
+<script type="text/javascript" src="clientscript/post_thanks.js">
+</script>
+<style type="text/css">.postbitlegacy .postfoot .textcontrols a.post_thanks_button, .postbit .postfoot .textcontrols a.post_thanks_button  {    background: url(images/buttons/post_thanks.png) no-repeat transparent left;    padding-left: 20px;}.postbitlegacy .postfoot .textcontrols a.post_thanks_button:hover, .postbit .postfoot .textcontrols a.post_thanks_button:hover  {    background: url(images/buttons/post_thanks-hover.png) no-repeat transparent left;}
+</style> 
+<meta name="keywords" content="резистора, этого, схему, сигнала, отпускания, резистор, нагрузил, порядок, 100к, этом, увидел, разницы, хэвисайда, этим, резистором, него, получаются, заявленные, 100мс, время, примерно, значения, увеличивается, времени, естественно, функцию, нагрузкой, разряжается, собрал, вчера, вечером, заряжается, преобразованием, вверх, погонял, осциллографом, аттенюатор, ламповый, вкл/выкл, имитировать, чтобы, тумблером, переключал, подавал, вход, 500кгц, уровень, входного, входе" />
+<meta name="description" content="Хочу поделиться информацией по одной из своих разработок. Это ламповый приёмник с преобразованием в верх. Цель разработки: Создать приёмник перекрывающий диапазон частот то 0,1 до 30Мгц. Виды модуляции АМ и SSB Весь приёмный тракт должен быть на лампах Преобразование в верх В первой ПЧ не применять дефицитный кварцевый фильтр, применить ФСС В первом смесителе попробовать применить нувистоны Проверить работу АРУ по третим сеткам ламп тракта ПЧ Ну и на конец, вспомнить молодость, то с" />
+<title> Ламповый RX с преобразованием вверх
+</title>
+<link rel="canonical" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&s=42d3d3f597b56b103339ae8e1bedac3a" />
+<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/showthread-rollup.css?d=1447965182" />
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/toolsmenu-ie.css?d=1447965182" />
+<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/postlist-ie.css?d=1447965182" />
+<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/showthread-ie.css?d=1447965182" />
+<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/postbit-ie.css?d=1447965182" />
+<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/poll-ie.css?d=1447965182" />
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="clientscript/vbulletin_css/style00018l/additional.css?d=1447965182" />
+<link rel="stylesheet" type="text/css" href="css.php?styleid=18&langid=2&d=1447965182&sheet=MARCO1_CKEditor_CSS.css" />
+</head>
+<body>
+<div class="above_body"> 
+<!-- closing tag is in template navbar -->
+<div id="header" class="floatcontainer doc_header">
+<div>
+<a name="top" href="http://www.cqham.ru" class="logo-image">
+<IMG height=13 src="nic.gif" width=5 border=0>
+<font style="font-size: 9pt" color="#FFFFFF" face="Arial">
+<span style="padding:0px 15px;">Технический портал радиолюбителей России
+</span>
+</font>
+<br>
+<IMG height=1 src="nic.gif" width=5 border=0>
+<br>
+<img src="images/misc/vbulletin4_logo.png" alt="CQHAM.RU" />
+</a>
+<DIV STYLE="float:left; padding-top:12.0pt; padding-left:30.0pt;">
+<html>
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=windows-1251'>
+<body leftmargin='0' topmargin='0' marginwidth='0' marginheight='0' style='background-color:transparent'>
+<table width=100% border=0 cellpadding='0' cellspacing='0'>
+<tr>
+<td align=center>
+<a href=http://www.yaesu.ru/tuner.php target=_top>
+<img src=http://www.cqham.ru/forum/yaesu/7.gif width=1 height=1 alt="" border=0>
+</a>
+<br>
+</td>
+</tr>
+</table>
+</body>
+</html>
+</DIV>
+</div>
+<div id="toplinks" class="toplinks">
+<ul class="nouser">
+<li>
+<a href="register.php?s=42d3d3f597b56b103339ae8e1bedac3a" rel="nofollow">Регистрация
+</a>
+</li>
+<li>
+<a rel="help" href="faq.php?s=42d3d3f597b56b103339ae8e1bedac3a">Помощь
+</a>
+</li>
+<li>
+<script type="text/javascript" src="clientscript/vbulletin_md5.js?v=4112">
+</script>
+<form id="navbar_loginform" action="login.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+<fieldset id="logindetails" class="logindetails">
+<div>
+<div>
+<input type="text" class="textbox default-value" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="Имя" />
+<input type="password" class="textbox" tabindex="102" name="vb_login_password" id="navbar_password" size="10" />
+<input type="text" class="textbox default-value" tabindex="102" name="vb_login_password_hint" id="navbar_password_hint" size="10" value="Пароль" style="display:none;" />
+<input type="submit" class="loginbutton" tabindex="104" value="Вход" title="Введите ваше имя пользователя и пароль, чтобы войти, или нажмите кнопку 'Регистрация', чтобы зарегистрироваться." accesskey="s" />
+</div>
+</div>
+</fieldset>
+<input type="hidden" name="cookieuser" value="1" />
+<input type="hidden" name="s" value="42d3d3f597b56b103339ae8e1bedac3a" />
+<input type="hidden" name="securitytoken" value="guest" />
+<input type="hidden" name="do" value="login" />
+<input type="hidden" name="vb_login_md5password" />
+<input type="hidden" name="vb_login_md5password_utf" />
+</form>
+<script type="text/javascript">YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");YAHOO.util.Dom.setStyle('navbar_password', "display", "none");vB_XHTML_Ready.subscribe(function(){//YAHOO.util.Event.on('navbar_username', "focus", navbar_username_focus);YAHOO.util.Event.on('navbar_username', "blur", navbar_username_blur);YAHOO.util.Event.on('navbar_password_hint', "focus", navbar_password_hint);YAHOO.util.Event.on('navbar_password', "blur", navbar_password);});function navbar_username_focus(e){//var textbox = YAHOO.util.Event.getTarget(e);if (textbox.value == 'Имя'){//textbox.value='';textbox.style.color='#000000';}}function navbar_username_blur(e){//var textbox = YAHOO.util.Event.getTarget(e);if (textbox.value == ''){//textbox.value='Имя';textbox.style.color='#777777';}}function navbar_password_hint(e){//var textbox = YAHOO.util.Event.getTarget(e);YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "none");YAHOO.util.Dom.setStyle('navbar_password', "display", "inline");YAHOO.util.Dom.get('navbar_password').focus();}function navbar_password(e){//var textbox = YAHOO.util.Event.getTarget(e);if (textbox.value == ''){YAHOO.util.Dom.setStyle('navbar_password_hint', "display", "inline");YAHOO.util.Dom.setStyle('navbar_password', "display", "none");}}
+</script>
+</li>
+</ul>
+</div>
+<div class="ad_global_header">  
+</div>
+<hr />
+</div>
+<div id="navbar" class="navbar">
+<ul id="navtabs" class="navtabs floatcontainer">
+<li class="selected">
+<a class="navtab" href="forum.php?s=42d3d3f597b56b103339ae8e1bedac3a">Форум
+</a>
+<ul class="floatcontainer">
+<li>
+<a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=getdaily&amp;contenttype=vBForum_Post">Сообщения за день
+</a>
+</li>
+<li>
+<a rel="help" href="faq.php?s=42d3d3f597b56b103339ae8e1bedac3a" accesskey="5">Справка
+</a>
+</li>
+<li>
+<a href="calendar.php?s=42d3d3f597b56b103339ae8e1bedac3a">Календарь
+</a>
+</li>
+<li class="popupmenu">
+<a href="javascript://" class="popupctrl" accesskey="6">Сообщество
+</a>
+<ul class="popupbody popuphover">
+<li>
+<a href="memberlist.php?s=42d3d3f597b56b103339ae8e1bedac3a">Пользователи
+</a>
+</li>
+</ul>
+</li>
+<li class="popupmenu">
+<a href="javascript://" class="popupctrl">Опции форума
+</a>
+<ul class="popupbody popuphover">
+<li>
+<a href="forumdisplay.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=markread&amp;markreadhash=guest">Все разделы прочитаны
+</a>
+</li>
+</ul>
+</li>
+<li class="popupmenu">
+<a href="javascript://" class="popupctrl" accesskey="3">Навигация
+</a>
+<ul class="popupbody popuphover">
+<li>
+<a href="showgroups.php?s=42d3d3f597b56b103339ae8e1bedac3a" rel="nofollow">Руководство сайта
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<a class="navtab" href="blog.php?s=42d3d3f597b56b103339ae8e1bedac3a">Дневники
+</a>
+</li>
+<li>
+<a class="navtab" href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=getdaily&amp;contenttype=vBForum_Post" accesskey="2">Что нового?
+</a>
+</li>
+<li>
+<a class="navtab" href="http://www.cqham.ru/foto/">Фотогалерея
+</a>
+</li>        
+<li>
+<a href="review.php" class="navtab">Обзоры
+</a>
+</li>
+<li>
+<a href="misc.php?do=showrules" class="navtab">Правила
+</a>
+</li>
+</ul>
+<div id="globalsearch" class="globalsearch">
+<form action="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=process" method="post" id="navbar_search" class="navbar_search">
+<input type="hidden" name="securitytoken" value="guest" />
+<input type="hidden" name="do" value="process" />
+<span class="textboxcontainer">
+<span>
+<input type="text" value="" name="query" class="textbox" tabindex="99"/>
+</span>
+</span>
+<span class="buttoncontainer">
+<span>
+<input type="image" class="searchbutton" src="/forum/images/buttons/search.png" name="submit" onclick="document.getElementById('navbar_search').submit;" tabindex="100"/>
+</span>
+</span>
+</form>
+<ul class="navbar_advanced_search">
+<li>
+<a href="search.php?search_type=1?s=42d3d3f597b56b103339ae8e1bedac3a" accesskey="4">Расширенный поиск
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<!-- closing div for above_body -->
+<div class="body_wrapper">
+<div id="breadcrumb" class="breadcrumb">
+<ul class="floatcontainer">
+<li class="navbithome">
+<a href="index.php?s=42d3d3f597b56b103339ae8e1bedac3a" accesskey="1">
+<img src="images/misc/navbit-home.png" alt="Главная" />
+</a>
+</li>
+<li class="navbit">
+<a href="forum.php?s=42d3d3f597b56b103339ae8e1bedac3a">Форум
+</a>
+</li>
+<li class="navbit">
+<a href="forumdisplay.php?4-ТЕХНИЧЕСКИЕ-ФОРУМЫ-НА-CQHAM-RU&amp;s=42d3d3f597b56b103339ae8e1bedac3a">ТЕХНИЧЕСКИЕ ФОРУМЫ НА CQHAM.RU
+</a>
+</li>
+<li class="navbit">
+<a href="forumdisplay.php?9-Трансиверы-приемники-КВ-УКВ&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Трансиверы, приемники КВ/УКВ
+</a>
+</li>
+<li class="navbit lastnavbit">
+<span> Ламповый RX с преобразованием вверх
+</span>
+</li>
+</ul>
+<hr />
+</div> 
+<div id="ad_global_below_navbar">
+<div style="background-color: #FFFFFB">
+<!-- Яндекс.Директ -->
+<script type="text/javascript">//
+<![CDATA[yandex_partner_id = 45493;yandex_direct_place = '45493';yandex_site_bg_color = 'FFFFFF';yandex_site_charset = 'windows-1251';yandex_ad_format = 'direct';yandex_font_size = 0.9;yandex_direct_title_font_size = 1;yandex_font_family = 'arial';yandex_direct_type = 'horizontal';yandex_direct_limit = 4;yandex_direct_title_color = '006699';yandex_direct_url_color = '006699';yandex_direct_all_color = '000000';yandex_direct_text_color = '000000';yandex_direct_hover_color = '6699CC';yandex_direct_favicon = true;document.write('
+<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js">
+</sc'+'ript>');//]]>
+</script>
+</div>
+</div>
+<form action="profile.php?do=dismissnotice" method="post" id="notices" class="notices">
+<input type="hidden" name="do" value="dismissnotice" />
+<input type="hidden" name="s" value="s=42d3d3f597b56b103339ae8e1bedac3a&amp;" />
+<input type="hidden" name="securitytoken" value="guest" />
+<input type="hidden" id="dismiss_notice_hidden" name="dismiss_noticeid" value="" />
+<input type="hidden" name="url" value="" />
+<ol>
+<li class="restore" id="navbar_notice_1">Если это ваш первый визит, читайте справку по форуму. Для размещения своих сообщений необходимо зарегистрироваться. Для просмотра сообщений выберите раздел.
+</li>
+</ol>
+</form>
+<div id="above_postlist" class="above_postlist">
+<div id="pagination_top" class="pagination_top">
+<form action="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page101&amp;s=42d3d3f597b56b103339ae8e1bedac3a" method="get" class="pagination popupmenu nohovermenu">
+<input type="hidden" name="t" value="17385" />
+<input type="hidden" name="s" value="42d3d3f597b56b103339ae8e1bedac3a" />
+<span>
+<a href="javascript://" class="popupctrl">Страница 1 из 112
+</a>
+</span>
+<span class="selected">
+<a href="javascript://" title="Показано с 1 по 10 из 1,112">1
+</a>
+</span>
+<span>
+<a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page2&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 11 по 20 из 1,112">2
+</a>
+</span>
+<span>
+<a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page3&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 21 по 30 из 1,112">3
+</a>
+</span>
+<span>
+<a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page4&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 31 по 40 из 1,112">4
+</a>
+</span>
+<span>
+<a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page11&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 101 по 110 из 1,112">
+<!--+10-->11
+</a>
+</span>
+<span>
+<a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page51&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 501 по 510 из 1,112">
+<!--+50-->51
+</a>
+</span>
+<span>
+<a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page101&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 1,001 по 1,010 из 1,112">
+<!--+100-->101
+</a>
+</span>
+<span class="separator">...
+</span>
+<span class="prev_next">
+<a rel="next" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page2&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Следующая страница - с 11 по 20 из 1,112">
+<img src="images/pagination/next-right.png" alt="Следующая" />
+</a>
+</span>
+<span class="first_last">
+<a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page112&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Последняя страница - с 1,111 по 1,112 из 1,112">Последняя
+<img src="images/pagination/last-right.png" alt="Последняя" />
+</a>
+</span>
+<ul class="popupbody popuphover">
+<li class="formsubmit jumptopage">
+<label>К странице: 
+<input type="text" name="page" size="4" />
+</label> 
+<input type="submit" class="button" value="Вперёд" />
+</li>
+</ul>
+</form>
+<div id="postpagestats_above" class="postpagestats">Показано с 1 по 10 из 1112
+</div>
+</div>
+</div>
+<div id="pagetitle" class="pagetitle">
+<h1>Тема: 
+<span class="threadtitle">
+<a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&s=42d3d3f597b56b103339ae8e1bedac3a" title="Перезагрузить страницу">Ламповый RX с преобразованием вверх
+</a>
+<div style="float: right">
+<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8">
+</script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="button" data-yashareQuickServices="vkontakte,facebook,twitter,odnoklassniki,moimir,lj" style= "height: 20px;">
+</div>
+</div>
+</span>
+<h1>
+</div>
+<div id="thread_controls" class="thread_controls toolsmenu">
+<div>
+<ul id="postlist_popups" class="postlist_popups popupgroup">
+<li class="popupmenu" id="threadtools">
+<h6>
+<a class="popupctrl" href="javascript://">Опции темы
+</a>
+</h6>
+<ul class="popupbody popuphover">
+<li>
+<a href="printthread.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;t=17385&amp;pp=10&amp;page=1" accesskey="3" rel="nofollow">Версия для печати
+</a>
+</li>
+<li>
+<a href="dt.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;t=17385"rel="nofollow">Версия для печати всех страниц
+</a>
+</li>
+<li>
+<a href="subscription.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=addsubscription&amp;t=17385" rel="nofollow">Подписаться на эту тему&hellip;
+</a>
+</li>
+</ul>
+</li>
+<li class="popupmenu searchthread menusearch" id="searchthread">
+<h6>
+<a class="popupctrl" href="javascript://">Поиск по теме
+</a>
+</h6>
+<form action="search.php" method="post">
+<ul class="popupbody popuphover">
+<li>
+<input type="text" name="query" class="searchbox" value="Поиск..." tabindex="13" />
+<input type="submit" class="button" value="Поиск" tabindex="14" />
+</li>
+<li class="formsubmit" id="popupsearch">
+<div class="submitoptions">&nbsp;
+</div>
+<div class="advancedsearchlink">
+<a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;search_type=1&amp;searchthreadid=17385&amp;contenttype=vBForum_Post">Расширенный поиск
+</a>
+</div>
+</li>
+</ul>
+<input type="hidden" name="s" value="42d3d3f597b56b103339ae8e1bedac3a" />
+<input type="hidden" name="securitytoken" value="guest" />
+<input type="hidden" name="do" value="process" />
+<input type="hidden" name="searchthreadid" value="17385" />
+<input type="hidden" name="search_type" value="1" />
+<input type="hidden" name="contenttype" value="vBForum_Post" />
+</form>
+</li>
+</ul>
+</div>
+</div>
+<div id="postlist" class="postlist restrain">
+<ol id="posts" class="posts" start="1">
+<li class="postbitlegacy postbitim postcontainer old" id="post_512654">
+<!-- see bottom of postbit.css for .userinfo .popupmenu styles -->
+<div class="posthead">
+<span class="postdate old">
+<span class="date">04.05.2011,&nbsp;
+<span class="time">14:17
+</span>
+</span>
+</span>
+<span class="nodecontrols">
+<a name="post512654" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512654&amp;viewfull=1#post512654" class="postcounter">#1
+</a>
+<a id="postcount512654" name="1">
+</a>
+</span>
+</div>
+<div class="postdetails">
+<div class="userinfo">
+<div class="username_container">
+<div class="popupmenu memberaction">
+<a class="username offline popupctrl" href="member.php?1631-LY3BD&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="LY3BD вне форума">
+<strong>LY3BD
+</strong>
+</a>
+<ul class="popupbody popuphover memberaction_body">
+<li class="left">
+<a href="member.php?1631-LY3BD&amp;s=42d3d3f597b56b103339ae8e1bedac3a" class="siteicon_profile">Просмотр профиля
+</a>
+</li>
+<li class="right">
+<a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=finduser&amp;userid=1631&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">Сообщения форума
+</a>
+</li>
+<li class="left">
+<a href="private.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newpm&amp;u=1631" class="siteicon_message" rel="nofollow">Личное сообщение
+</a>
+</li>
+<li class="right">
+<a href="blog.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=1631" class="siteicon_blog" rel="nofollow">Записи в дневнике
+</a>
+</li>
+</ul>
+</div>
+<img class="inlineimg onlinestatus" src="images/cqham/statusicon/user-offline.png" alt="LY3BD вне форума" border="0" />
+</div>
+<span class="usertitle">
+</span>
+<a class="postuseravatar" href="member.php?1631-LY3BD&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="LY3BD вне форума">
+<img src="customavatars/avatar1631_2.gif" alt="Аватар для LY3BD" title="Аватар для LY3BD" />
+</a> 
+<hr />
+<dl class="userinfo_extra">
+<dt>Регистрация
+</dt> 
+<dd>03.08.2004
+</dd>
+<dt>Адрес
+</dt> 
+<dd>Вильнюс
+</dd>
+<dt>Сообщений
+</dt> 
+<dd>360
+</dd>
+<dt>Позывной
+</dt>  
+<dd>LY3BD
+</dd>
+</dl>
+<div class="imlinks">    
+</div>
+</div>
+<div class="postbody">
+<div class="postrow">
+<h2 class="title icon">Ламповый RX с преобразованием вверх
+</h2>
+<div class="content">
+<div id="post_message_512654">
+<blockquote class="postcontent restore ">Хочу поделиться информацией по одной из своих разработок. Это ламповый приёмник с преобразованием в верх. Цель разработки:
+<br />Создать приёмник перекрывающий диапазон частот то 0,1 до 30Мгц.
+<br />Виды модуляции АМ и SSB
+<br />Весь приёмный тракт должен быть на лампах
+<br />Преобразование в верх
+<br />В первой ПЧ не применять дефицитный кварцевый фильтр, применить ФСС
+<br />В первом смесителе попробовать применить нувистоны
+<br />Проверить работу АРУ по третим сеткам ламп тракта ПЧ
+<br />Ну и на конец, вспомнить молодость, то с чего начиналось моё радиолюбительство, вспомнить &quot;ламповый&quot; звук.
+<img src="images/smilies/icon_razz.gif" border="0" alt="" title="Razz" class="inlineimg" />
+<br />В результате получился приёмник почти полностью на лампах, кроме синтезатора, с преобразованием в верх, с тремя преобразованиями частоты.
+<br />Основные характеристики:
+<br />Чувствительность при соотношении С/Ш 10дб и полосе пропускания 3Кгц в режиме SSB, 0,8Мкв
+<br />Динамический диапозон по интермодуляции третьего порядка, при разносе частот двухчастотного сигнала 15Кгц, более 80Дб.
+<br />Более точно померить динамический диапазон не получилось, мешают шумы синтезатора. Они вылазят ранше чем появляются продукты интермодуляции. Синтезатор к сожалению не очень хороший по шумовым характеристикам. 
+<br />Подавление побочных каналов приёма, более 60Дб
+<br />ПЧ1=60,7Мгц (ФСС, полоса пропускания 1Мгц)
+<br />ПЧ2=10,7Мгц (кварцевый фильтр с полосой прпускания 18Кгц)
+<br />ПЧ3=500Кгц (ЭМФ с полосами прпускания 3.0Кгц и 7,8Кгц)
+<br />Глубина режекции перестраиваемого режекторного фильтра по ПЧ3, более 50Дб
+<br />Потребляемая мощность от сети, 60Вт
+<br />Приёмник работает очень даже достойно, и это даже не смотря на то, что на входе приёмника нет ни каких полосовых фильтров, кроме ФНЧ с частотой среза 30Мгц. Первоначально входные фильры были предусмотрены в конструкции, но затем я от них отказался, реально они ни чего не давали кроме усложнения конструкции. Даже входной аттенюатор по большому счёту можно было не ставить, при уровне мешающего сигнала около 0,8В на входе приёмника от мастной вещательной радиостанции, проблем с приёмом не возникает. Приёмник звучит мягко, приятно на слух. Эфир &quot;выглядит прозрачно&quot;, не утомляет. Как пример выкладываю пару звуковых файлов. Запись сделана на диапазоне 80М, на самом &quot;грязном&quot; диапазоне, в городских условиях. Рекомендую слушать на хорошую акустику, а не наушники ТОН-2! 
+<br />Если найдутся желающие ознакомиться с этой конструкцией более подробно или повторить её, то я могу выложить схемы и постараюсь ответить на вопросы. Правда схемы в виде моих рабочих черновиков, рисовать схемы на компьютере у меня получается очень медленно.
+<br />И последнее, кому эта тема не интересна, проходите мимо не &quot;задерживайтесь&quot;  , на всякого рода глупости отвечать не буду!
+<br /> 
+<br />
+<a href="http://www.cqham.ru/forum/attachment.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;attachmentid=81592&amp;d=1304507593" id="attachment81592" target="_blank" rel="Lightbox_512654" target="_blank" >
+<img src="http://www.cqham.ru/forum/attachment.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;attachmentid=81592&amp;d=1304505110&amp;thumb=1" border="0" alt="Нажмите на изображение для увеличения.&nbsp;Название:лицевая паненль.jpg&nbsp;Просмотров:6805&nbsp;Размер:465.0 Кб&nbsp;ID:81592" class="thumbnail" style="float:CONFIG" />
+</a> 
+<a href="http://www.cqham.ru/forum/attachment.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;attachmentid=81593&amp;d=1304507625" id="attachment81593" target="_blank" rel="Lightbox_512654" target="_blank" >
+<img src="http://www.cqham.ru/forum/attachment.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;attachmentid=81593&amp;d=1304507625&amp;thumb=1" border="0" alt="Нажмите на изображение для увеличения.&nbsp;Название:верх.jpg&nbsp;Просмотров:9234&nbsp;Размер:570.6 Кб&nbsp;ID:81593" class="thumbnail" style="float:CONFIG" />
+</a> 
+<a href="http://www.cqham.ru/forum/attachment.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;attachmentid=81594&amp;d=1304507653" id="attachment81594" target="_blank" rel="Lightbox_512654" target="_blank" >
+<img src="http://www.cqham.ru/forum/attachment.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;attachmentid=81594&amp;d=1304505141&amp;thumb=1" border="0" alt="Нажмите на изображение для увеличения.&nbsp;Название:общий вид.jpg&nbsp;Просмотров:3572&nbsp;Размер:527.2 Кб&nbsp;ID:81594" class="thumbnail" style="float:CONFIG" />
+</a>
+</blockquote>
+</div>
+<div class="attachments">
+<fieldset class="postcontent">
+<legend>
+<img src="images/misc/paperclip.png" class="inlineimg" alt="Вложения" /> Вложения
+</legend>
+<ul>
+<!-- Embed Player -->
+<!-- /Embed Player -->
+<li>
+<img class="inlineimg" src="images/attach/mp3.gif" alt="Тип файла: mp3" />
+<a href="attachment.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;attachmentid=81591&amp;d=1304507550">80-22.mp3
+</a> (300.9 Кб, Просмотров: 6568)
+</li>
+<!-- Embed Player -->
+<!-- /Embed Player -->
+<li>
+<img class="inlineimg" src="images/attach/mp3.gif" alt="Тип файла: mp3" />
+<a href="attachment.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;attachmentid=81590&amp;d=1304507550">80-11.mp3
+</a> (888.1 Кб, Просмотров: 4666)
+</li>
+</ul>
+</fieldset>
+</div>
+<!-- / attachments -->
+</div>
+</div>
+<div class="cleardiv">
+</div>
+</div>
+</div>
+<div class="postfoot">
+<!-- 
+<div class="postfoot_container"> -->
+<div class="textcontrols floatcontainer">
+<span class="postcontrols">
+<img style="display:none" id="progress_512654" src="images/misc/progress.gif" alt="" />
+<a id="qrwq_512654" class="newreply" href="newreply.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newreply&amp;p=512654" rel="nofollow" title="   ">
+<img id="quoteimg_512654" src="clear.gif" alt="   " />     
+</a> 
+</span>
+<span class="postlinking">
+</span>
+<!-- 
+</div> -->
+</div>
+</div>
+<hr />
+</li>
+<li class="postbitlegacy postbitim" id="post_thanks_box_512654">
+<div class="postbody" style="margin-left: 0; margin-top: -13px; padding: 5px; padding-left: 4px; border-right: 1px solid rgb(200, 200, 200)">
+<div class="postrow" style="padding: 3px">
+<div class="content">
+<div id="post_thanks_bit_512654">
+<blockquote class="postcontent restore">
+<div style="padding: 1px; padding-left: 29px; font-size: 8.5pt; background-image: url('images/buttons/post_thanks_orange22.png'); background-origin: padding-box; background-position: 7px 50%; background-repeat: no-repeat">Спасибо от&nbsp;
+<a href="member.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=25518" rel="nofollow">Albertin
+</a>, 
+<a href="member.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=10575" rel="nofollow">LY1SD
+</a>, 
+<a href="member.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=8006" rel="nofollow">RN3GP
+</a>, 
+<a href="member.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=22534" rel="nofollow">RV3RF
+</a>, 
+<a href="member.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=798" rel="nofollow">RZ3DFZ
+</a>, 
+<a href="member.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=13394" rel="nofollow">UR3INQ
+</a>, 
+<a href="member.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=11729" rel="nofollow">UX0DC
+</a>, 
+<a href="member.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=26412" rel="nofollow">wolf1605
+</a>, 
+<a href="member.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=8369" rel="nofollow">Давид
+</a>, 
+<a href="member.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=17458" rel="nofollow">Костя5656
+</a>, 
+<a href="member.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=23682" rel="nofollow">СергейАлт
+</a> 
+</div>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<hr />
+</li> 
+<li class="postbitlegacy postbitim postcontainer" id="after_first_post_yadirect">
+<div id="ya_direct_between_posts">
+<div class="posthead">
+<span class="postdate old">Реклама
+</span>
+</div>
+<div style="background-color: #FFFFFB; font-size: 8pt; float:left">
+<script type="text/javascript">//
+<![CDATA[yandex_partner_id = 45493;yandex_direct_place = '45493';yandex_site_bg_color = 'FFFFFF';yandex_site_charset = 'windows-1251';yandex_ad_format = 'direct';yandex_font_size = 1;yandex_font_family = 'arial';yandex_direct_type = 'horizontal';yandex_direct_limit = 4;yandex_direct_title_font_size = 1;yandex_direct_title_color = '006699';yandex_direct_title_font_size = 2;yandex_direct_url_color = '006699';yandex_direct_all_color = '000000';yandex_direct_text_color = '000000';yandex_direct_hover_color = '6699CC';yandex_direct_favicon = true;document.write('
+<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js">
+</sc'+'ript>');//]]>
+</script>
+</div>
+<hr />
+</div>
+</li>
+<li class="postbitlegacy postbitim postcontainer old" id="post_512657">
+<!-- see bottom of postbit.css for .userinfo .popupmenu styles -->
+<div class="posthead">
+<span class="postdate old">
+<span class="date">04.05.2011,&nbsp;
+<span class="time">14:27
+</span>
+</span>
+</span>
+<span class="nodecontrols">
+<a name="post512657" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512657&amp;viewfull=1#post512657" class="postcounter">#2
+</a>
+<a id="postcount512657" name="2">
+</a>
+</span>
+</div>
+<div class="postdetails">
+<div class="userinfo">
+<div class="username_container">
+<div class="popupmenu memberaction">
+<a class="username offline popupctrl" href="member.php?12464-Ua3UtA&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Ua3UtA вне форума">
+<strong>Ua3UtA
+</strong>
+</a>
+<ul class="popupbody popuphover memberaction_body">
+<li class="left">
+<a href="member.php?12464-Ua3UtA&amp;s=42d3d3f597b56b103339ae8e1bedac3a" class="siteicon_profile">Просмотр профиля
+</a>
+</li>
+<li class="right">
+<a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=finduser&amp;userid=12464&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">Сообщения форума
+</a>
+</li>
+<li class="left">
+<a href="private.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newpm&amp;u=12464" class="siteicon_message" rel="nofollow">Личное сообщение
+</a>
+</li>
+<li class="right">
+<a href="blog.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=12464" class="siteicon_blog" rel="nofollow">Записи в дневнике
+</a>
+</li>
+</ul>
+</div>
+<img class="inlineimg onlinestatus" src="images/cqham/statusicon/user-offline.png" alt="Ua3UtA вне форума" border="0" />
+</div>
+<span class="usertitle">
+</span>
+<a class="postuseravatar" href="member.php?12464-Ua3UtA&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Ua3UtA вне форума">
+<img src="customavatars/avatar12464_4.gif" alt="Аватар для Ua3UtA" title="Аватар для Ua3UtA" />
+</a> 
+<hr />
+<dl class="userinfo_extra">
+<dt>Регистрация
+</dt> 
+<dd>09.02.2010
+</dd>
+<dt>Адрес
+</dt> 
+<dd>IV-09  Lo06oM
+</dd>
+<dt>Сообщений
+</dt> 
+<dd>2,006
+</dd>
+<dt>Позывной
+</dt>  
+<dd>UA3UTA
+</dd>
+</dl>
+<div class="imlinks">    
+<a href="javascript://" onclick="imwindow('skype', '12464', 500, 340); return false;">
+<img src="images/misc/im_skype.gif" alt="Отправить сообщение для Ua3UtA с помощью Skype&trade;" />
+</a>
+</div>
+</div>
+<div class="postbody_alt">
+<div class="postrow has_after_content">
+<div class="content">
+<div id="post_message_512657">
+<blockquote class="postcontent restore ">
+<div class="bbcode_container">
+<div class="bbcode_quote">
+<div class="quote_container">
+<div class="bbcode_quote_container">
+</div>
+<div class="bbcode_postedby">
+<img src="images/misc/quote_icon.png" alt="Цитата" /> Сообщение от 
+<strong>LY3BD
+</strong>
+<a href="showthread.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512654#post512654" rel="nofollow">
+<img class="inlineimg" src="images/buttons/viewpost-right.png" alt="Посмотреть сообщение" />
+</a>
+</div>
+<div class="message">Проверить работу АРУ по третим сеткам ламп тракта ПЧ
+</div>
+</div>
+</div>
+</div>вот это в данный момент мне интересно(в связи с коренной реконструкцией ДИ-1).можно кусочек схемы подсмотреть?
+<br />звучание аппарата мне понравилось-насчет самого грязного диапазоны вы лукавите-у меня грязнее
+<img src="images/smilies/icon_razz.gif" border="0" alt="" title="Razz" class="inlineimg" />
+</blockquote>
+</div>
+</div>
+</div>
+<div class="after_content">
+<div class="signature restore">
+<div class="signature_separator">
+</div>
+<div class="signaturecontainer">73! Сергей
+</div>
+</div>
+</div>
+<div class="cleardiv">
+</div>
+</div>
+</div>
+<div class="postfoot">
+<!-- 
+<div class="postfoot_container"> -->
+<div class="textcontrols floatcontainer">
+<span class="postcontrols">
+<img style="display:none" id="progress_512657" src="images/misc/progress.gif" alt="" />
+<a id="qrwq_512657" class="newreply" href="newreply.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newreply&amp;p=512657" rel="nofollow" title="   ">
+<img id="quoteimg_512657" src="clear.gif" alt="   " />     
+</a> 
+</span>
+<span class="postlinking">
+</span>
+<!-- 
+</div> -->
+</div>
+</div>
+<hr />
+</li>
+<li class="postbitlegacy postbitim" id="post_thanks_box_512657" style="display:none">
+</li> 
+<li class="postbitlegacy postbitim postcontainer old" id="post_512659">
+<!-- see bottom of postbit.css for .userinfo .popupmenu styles -->
+<div class="posthead">
+<span class="postdate old">
+<span class="date">04.05.2011,&nbsp;
+<span class="time">14:33
+</span>
+</span>
+</span>
+<span class="nodecontrols">
+<a name="post512659" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512659&amp;viewfull=1#post512659" class="postcounter">#3
+</a>
+<a id="postcount512659" name="3">
+</a>
+</span>
+</div>
+<div class="postdetails">
+<div class="userinfo">
+<div class="username_container">
+<div class="popupmenu memberaction">
+<a class="username online popupctrl" href="member.php?11954-labuda51&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="labuda51 на форуме">
+<strong>labuda51
+</strong>
+</a>
+<ul class="popupbody popuphover memberaction_body">
+<li class="left">
+<a href="member.php?11954-labuda51&amp;s=42d3d3f597b56b103339ae8e1bedac3a" class="siteicon_profile">Просмотр профиля
+</a>
+</li>
+<li class="right">
+<a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=finduser&amp;userid=11954&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">Сообщения форума
+</a>
+</li>
+<li class="left">
+<a href="private.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newpm&amp;u=11954" class="siteicon_message" rel="nofollow">Личное сообщение
+</a>
+</li>
+<li class="right">
+<a href="blog.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=11954" class="siteicon_blog" rel="nofollow">Записи в дневнике
+</a>
+</li>
+</ul>
+</div>
+<img class="inlineimg onlinestatus" src="images/cqham/statusicon/user-online.png" alt="labuda51 на форуме" border="0" />
+</div>
+<span class="usertitle">
+</span> 
+<hr />
+<dl class="userinfo_extra">
+<dt>Регистрация
+</dt> 
+<dd>26.11.2009
+</dd>
+<dt>Адрес
+</dt> 
+<dd>ПИТЕР
+</dd>
+<dt>Сообщений
+</dt> 
+<dd>1,212
+</dd>
+</dl>
+<div class="imlinks">    
+</div>
+</div>
+<div class="postbody">
+<div class="postrow">
+<div class="content">
+<div id="post_message_512659">
+<blockquote class="postcontent restore ">Класс !
+</blockquote>
+</div>
+</div>
+</div>
+<div class="cleardiv">
+</div>
+</div>
+</div>
+<div class="postfoot">
+<!-- 
+<div class="postfoot_container"> -->
+<div class="textcontrols floatcontainer">
+<span class="postcontrols">
+<img style="display:none" id="progress_512659" src="images/misc/progress.gif" alt="" />
+<a id="qrwq_512659" class="newreply" href="newreply.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newreply&amp;p=512659" rel="nofollow" title="   ">
+<img id="quoteimg_512659" src="clear.gif" alt="   " />     
+</a> 
+</span>
+<span class="postlinking">
+</span>
+<!-- 
+</div> -->
+</div>
+</div>
+<hr />
+</li>
+<li class="postbitlegacy postbitim" id="post_thanks_box_512659" style="display:none">
+</li> 
+<li class="postbitlegacy postbitim postcontainer old" id="post_512663">
+<!-- see bottom of postbit.css for .userinfo .popupmenu styles -->
+<div class="posthead">
+<span class="postdate old">
+<span class="date">04.05.2011,&nbsp;
+<span class="time">14:48
+</span>
+</span>
+</span>
+<span class="nodecontrols">
+<a name="post512663" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512663&amp;viewfull=1#post512663" class="postcounter">#4
+</a>
+<a id="postcount512663" name="4">
+</a>
+</span>
+</div>
+<div class="postdetails">
+<div class="userinfo">
+<div class="username_container">
+<div class="popupmenu memberaction">
+<a class="username offline popupctrl" href="member.php?7337-ex-RL7-A-Ata&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="ex RL7/ A-Ata вне форума">
+<strong>ex RL7/ A-Ata
+</strong>
+</a>
+<ul class="popupbody popuphover memberaction_body">
+<li class="left">
+<a href="member.php?7337-ex-RL7-A-Ata&amp;s=42d3d3f597b56b103339ae8e1bedac3a" class="siteicon_profile">Просмотр профиля
+</a>
+</li>
+<li class="right">
+<a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=finduser&amp;userid=7337&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">Сообщения форума
+</a>
+</li>
+<li class="left">
+<a href="private.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newpm&amp;u=7337" class="siteicon_message" rel="nofollow">Личное сообщение
+</a>
+</li>
+<li class="right">
+<a href="blog.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=7337" class="siteicon_blog" rel="nofollow">Записи в дневнике
+</a>
+</li>
+</ul>
+</div>
+<img class="inlineimg onlinestatus" src="images/cqham/statusicon/user-offline.png" alt="ex RL7/ A-Ata вне форума" border="0" />
+</div>
+<span class="usertitle">
+</span>
+<a class="postuseravatar" href="member.php?7337-ex-RL7-A-Ata&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="ex RL7/ A-Ata вне форума">
+<img src="images/avatars/023.jpg" alt="Аватар для ex RL7/ A-Ata" title="Аватар для ex RL7/ A-Ata" />
+</a> 
+<hr />
+<dl class="userinfo_extra">
+<dt>Регистрация
+</dt> 
+<dd>29.08.2007
+</dd>
+<dt>Адрес
+</dt> 
+<dd>К26
+</dd>
+<dt>Сообщений
+</dt> 
+<dd>2,796
+</dd>
+</dl>
+<div class="imlinks">    
+</div>
+</div>
+<div class="postbody_alt">
+<div class="postrow has_after_content">
+<div class="content">
+<div id="post_message_512663">
+<blockquote class="postcontent restore ">
+<b>LY3BD
+</b>,с интересом жду дальнейшего рассказа о технических решениях,а также схемы.
+</blockquote>
+</div>
+</div>
+</div>
+<div class="after_content">
+<div class="signature restore">
+<div class="signature_separator">
+</div>
+<div class="signaturecontainer">WIK, DF6PL
+<img src="images/smilies/icon_smile.gif" border="0" alt="" title="Smile" class="inlineimg" />...моё мнение &quot;Томас -Алва Эдисон ФОРЕВЕР!!&quot;
+</div>
+</div>
+</div>
+<div class="cleardiv">
+</div>
+</div>
+</div>
+<div class="postfoot">
+<!-- 
+<div class="postfoot_container"> -->
+<div class="textcontrols floatcontainer">
+<span class="postcontrols">
+<img style="display:none" id="progress_512663" src="images/misc/progress.gif" alt="" />
+<a id="qrwq_512663" class="newreply" href="newreply.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newreply&amp;p=512663" rel="nofollow" title="   ">
+<img id="quoteimg_512663" src="clear.gif" alt="   " />     
+</a> 
+</span>
+<span class="postlinking">
+</span>
+<!-- 
+</div> -->
+</div>
+</div>
+<hr />
+</li>
+<li class="postbitlegacy postbitim" id="post_thanks_box_512663" style="display:none">
+</li> 
+<li class="postbitlegacy postbitim postcontainer old" id="post_512674">
+<!-- see bottom of postbit.css for .userinfo .popupmenu styles -->
+<div class="posthead">
+<span class="postdate old">
+<span class="date">04.05.2011,&nbsp;
+<span class="time">15:22
+</span>
+</span>
+</span>
+<span class="nodecontrols">
+<a name="post512674" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512674&amp;viewfull=1#post512674" class="postcounter">#5
+</a>
+<a id="postcount512674" name="5">
+</a>
+</span>
+</div>
+<div class="postdetails">
+<div class="userinfo">
+<div class="username_container">
+<div class="popupmenu memberaction">
+<a class="username offline popupctrl" href="member.php?12046-konstantin-us5itp&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="konstantin us5itp вне форума">
+<strong>konstantin us5itp
+</strong>
+</a>
+<ul class="popupbody popuphover memberaction_body">
+<li class="left">
+<a href="member.php?12046-konstantin-us5itp&amp;s=42d3d3f597b56b103339ae8e1bedac3a" class="siteicon_profile">Просмотр профиля
+</a>
+</li>
+<li class="right">
+<a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=finduser&amp;userid=12046&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">Сообщения форума
+</a>
+</li>
+<li class="left">
+<a href="private.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newpm&amp;u=12046" class="siteicon_message" rel="nofollow">Личное сообщение
+</a>
+</li>
+<li class="right">
+<a href="blog.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=12046" class="siteicon_blog" rel="nofollow">Записи в дневнике
+</a>
+</li>
+</ul>
+</div>
+<img class="inlineimg onlinestatus" src="images/cqham/statusicon/user-offline.png" alt="konstantin us5itp вне форума" border="0" />
+</div>
+<span class="usertitle">
+</span>
+<a class="postuseravatar" href="member.php?12046-konstantin-us5itp&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="konstantin us5itp вне форума">
+<img src="customavatars/avatar12046_3.gif" alt="Аватар для konstantin us5itp" title="Аватар для konstantin us5itp" />
+</a> 
+<hr />
+<dl class="userinfo_extra">
+<dt>Регистрация
+</dt> 
+<dd>08.12.2009
+</dd>
+<dt>Адрес
+</dt> 
+<dd>донецкая обл.г.макеевка
+</dd>
+<dt>Сообщений
+</dt> 
+<dd>875
+</dd>
+</dl>
+<div class="imlinks">    
+<a href="javascript://" onclick="imwindow('skype', '12046', 500, 340); return false;">
+<img src="images/misc/im_skype.gif" alt="Отправить сообщение для konstantin us5itp с помощью Skype&trade;" />
+</a>
+</div>
+</div>
+<div class="postbody">
+<div class="postrow has_after_content">
+<div class="content">
+<div id="post_message_512674">
+<blockquote class="postcontent restore ">Мне понравилось ,&quot; железо&quot;  сделано &quot;с любовью&quot;, да и звучит достойно - 10 баллов!
+<br />Инетересно на чем собран &quot;грязный&quot; синтезатор?
+</blockquote>
+</div>
+</div>
+</div>
+<div class="after_content">
+<div class="signature restore">
+<div class="signature_separator">
+</div>
+<div class="signaturecontainer">us5itp konstantin. 
+<br />Все приходяшее и уходящее ,а РАДИО - ВЕЧНО...!
+</div>
+</div>
+</div>
+<div class="cleardiv">
+</div>
+</div>
+</div>
+<div class="postfoot">
+<!-- 
+<div class="postfoot_container"> -->
+<div class="textcontrols floatcontainer">
+<span class="postcontrols">
+<img style="display:none" id="progress_512674" src="images/misc/progress.gif" alt="" />
+<a id="qrwq_512674" class="newreply" href="newreply.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newreply&amp;p=512674" rel="nofollow" title="   ">
+<img id="quoteimg_512674" src="clear.gif" alt="   " />     
+</a> 
+</span>
+<span class="postlinking">
+</span>
+<!-- 
+</div> -->
+</div>
+</div>
+<hr />
+</li>
+<li class="postbitlegacy postbitim" id="post_thanks_box_512674" style="display:none">
+</li> 
+<li class="postbitlegacy postbitim postcontainer old" id="post_512675">
+<!-- see bottom of postbit.css for .userinfo .popupmenu styles -->
+<div class="posthead">
+<span class="postdate old">
+<span class="date">04.05.2011,&nbsp;
+<span class="time">15:25
+</span>
+</span>
+</span>
+<span class="nodecontrols">
+<a name="post512675" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512675&amp;viewfull=1#post512675" class="postcounter">#6
+</a>
+<a id="postcount512675" name="6">
+</a>
+</span>
+</div>
+<div class="postdetails">
+<div class="userinfo">
+<div class="username_container">
+<div class="popupmenu memberaction">
+<a class="username offline popupctrl" href="member.php?12599-VOVA080808&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="VOVA080808 вне форума">
+<strong>VOVA080808
+</strong>
+</a>
+<ul class="popupbody popuphover memberaction_body">
+<li class="left">
+<a href="member.php?12599-VOVA080808&amp;s=42d3d3f597b56b103339ae8e1bedac3a" class="siteicon_profile">Просмотр профиля
+</a>
+</li>
+<li class="right">
+<a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=finduser&amp;userid=12599&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">Сообщения форума
+</a>
+</li>
+<li class="left">
+<a href="private.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newpm&amp;u=12599" class="siteicon_message" rel="nofollow">Личное сообщение
+</a>
+</li>
+<li class="right">
+<a href="blog.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=12599" class="siteicon_blog" rel="nofollow">Записи в дневнике
+</a>
+</li>
+</ul>
+</div>
+<img class="inlineimg onlinestatus" src="images/cqham/statusicon/user-offline.png" alt="VOVA080808 вне форума" border="0" />
+</div>
+<span class="usertitle">
+</span>
+<a class="postuseravatar" href="member.php?12599-VOVA080808&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="VOVA080808 вне форума">
+<img src="customavatars/avatar12599_5.gif" alt="Аватар для VOVA080808" title="Аватар для VOVA080808" />
+</a> 
+<hr />
+<dl class="userinfo_extra">
+<dt>Регистрация
+</dt> 
+<dd>03.03.2010
+</dd>
+<dt>Адрес
+</dt> 
+<dd>СНГ
+</dd>
+<dt>Сообщений
+</dt> 
+<dd>2,154
+</dd>
+</dl>
+<div class="imlinks">    
+</div>
+</div>
+<div class="postbody_alt">
+<div class="postrow">
+<div class="content">
+<div id="post_message_512675">
+<blockquote class="postcontent restore ">А синтез на какой микрухе ?
+</blockquote>
+</div>
+</div>
+</div>
+<div class="cleardiv">
+</div>
+</div>
+</div>
+<div class="postfoot">
+<!-- 
+<div class="postfoot_container"> -->
+<div class="textcontrols floatcontainer">
+<span class="postcontrols">
+<img style="display:none" id="progress_512675" src="images/misc/progress.gif" alt="" />
+<a id="qrwq_512675" class="newreply" href="newreply.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newreply&amp;p=512675" rel="nofollow" title="   ">
+<img id="quoteimg_512675" src="clear.gif" alt="   " />     
+</a> 
+</span>
+<span class="postlinking">
+</span>
+<!-- 
+</div> -->
+</div>
+</div>
+<hr />
+</li>
+<li class="postbitlegacy postbitim" id="post_thanks_box_512675" style="display:none">
+</li> 
+<li class="postbitlegacy postbitim postcontainer old" id="post_512676">
+<!-- see bottom of postbit.css for .userinfo .popupmenu styles -->
+<div class="posthead">
+<span class="postdate old">
+<span class="date">04.05.2011,&nbsp;
+<span class="time">15:37
+</span>
+</span>
+</span>
+<span class="nodecontrols">
+<a name="post512676" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512676&amp;viewfull=1#post512676" class="postcounter">#7
+</a>
+<a id="postcount512676" name="7">
+</a>
+</span>
+</div>
+<div class="postdetails">
+<div class="userinfo">
+<div class="username_container">
+<div class="popupmenu memberaction">
+<a class="username offline popupctrl" href="member.php?1587-Serg007&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Serg007 вне форума">
+<strong>Serg007
+</strong>
+</a>
+<ul class="popupbody popuphover memberaction_body">
+<li class="left">
+<a href="member.php?1587-Serg007&amp;s=42d3d3f597b56b103339ae8e1bedac3a" class="siteicon_profile">Просмотр профиля
+</a>
+</li>
+<li class="right">
+<a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=finduser&amp;userid=1587&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">Сообщения форума
+</a>
+</li>
+<li class="left">
+<a href="private.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newpm&amp;u=1587" class="siteicon_message" rel="nofollow">Личное сообщение
+</a>
+</li>
+<li class="right">
+<a href="blog.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=1587" class="siteicon_blog" rel="nofollow">Записи в дневнике
+</a>
+</li>
+</ul>
+</div>
+<img class="inlineimg onlinestatus" src="images/cqham/statusicon/user-offline.png" alt="Serg007 вне форума" border="0" />
+</div>
+<span class="usertitle">
+</span>
+<a class="postuseravatar" href="member.php?1587-Serg007&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Serg007 вне форума">
+<img src="customavatars/avatar1587_2.gif" alt="Аватар для Serg007" title="Аватар для Serg007" />
+</a> 
+<hr />
+<dl class="userinfo_extra">
+<dt>Регистрация
+</dt> 
+<dd>20.07.2004
+</dd>
+<dt>Адрес
+</dt> 
+<dd>г.Луганск
+</dd>
+<dt>Сообщений
+</dt> 
+<dd>5,297
+</dd>
+<dt>Записей в дневнике
+</dt>
+<dd>
+<a href="blog.php?1587&amp;s=42d3d3f597b56b103339ae8e1bedac3a">1
+</a>
+</dd>
+<dt>Позывной
+</dt>  
+<dd>US5MSQ
+</dd>
+</dl>
+<div class="imlinks">    
+</div>
+</div>
+<div class="postbody">
+<div class="postrow has_after_content">
+<div class="content">
+<div id="post_message_512676">
+<blockquote class="postcontent restore ">
+<b>LY3BD
+</b>, 
+<br />Браво, Александр - замечательная конструкция 
+<img src="images/smilies/icon_super.gif" border="0" alt="" title="Super" class="inlineimg" />.
+<br />Хотелось бы больше информации (схем и фоток), зело любопытно
+</blockquote>
+</div>
+</div>
+</div>
+<div class="after_content">
+<div class="signature restore">
+<div class="signature_separator">
+</div>
+<div class="signaturecontainer">Сергей  US5MSQ,  Радио - это очень просто!    
+<a href="http://us5msq.com.ua/" target="_blank">http://us5msq.com.ua/
+</a>
+</div>
+</div>
+</div>
+<div class="cleardiv">
+</div>
+</div>
+</div>
+<div class="postfoot">
+<!-- 
+<div class="postfoot_container"> -->
+<div class="textcontrols floatcontainer">
+<span class="postcontrols">
+<img style="display:none" id="progress_512676" src="images/misc/progress.gif" alt="" />
+<a id="qrwq_512676" class="newreply" href="newreply.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newreply&amp;p=512676" rel="nofollow" title="   ">
+<img id="quoteimg_512676" src="clear.gif" alt="   " />     
+</a> 
+</span>
+<span class="postlinking">
+</span>
+<!-- 
+</div> -->
+</div>
+</div>
+<hr />
+</li>
+<li class="postbitlegacy postbitim" id="post_thanks_box_512676" style="display:none">
+</li> 
+<li class="postbitlegacy postbitim postcontainer old" id="post_512716">
+<!-- see bottom of postbit.css for .userinfo .popupmenu styles -->
+<div class="posthead">
+<span class="postdate old">
+<span class="date">04.05.2011,&nbsp;
+<span class="time">17:32
+</span>
+</span>
+</span>
+<span class="nodecontrols">
+<a name="post512716" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512716&amp;viewfull=1#post512716" class="postcounter">#8
+</a>
+<a id="postcount512716" name="8">
+</a>
+</span>
+</div>
+<div class="postdetails">
+<div class="userinfo">
+<div class="username_container">
+<div class="popupmenu memberaction">
+<a class="username offline popupctrl" href="member.php?4596-Валерий&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Валерий вне форума">
+<strong>Валерий
+</strong>
+</a>
+<ul class="popupbody popuphover memberaction_body">
+<li class="left">
+<a href="member.php?4596-Валерий&amp;s=42d3d3f597b56b103339ae8e1bedac3a" class="siteicon_profile">Просмотр профиля
+</a>
+</li>
+<li class="right">
+<a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=finduser&amp;userid=4596&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">Сообщения форума
+</a>
+</li>
+<li class="left">
+<a href="private.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newpm&amp;u=4596" class="siteicon_message" rel="nofollow">Личное сообщение
+</a>
+</li>
+<li class="right">
+<a href="blog.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=4596" class="siteicon_blog" rel="nofollow">Записи в дневнике
+</a>
+</li>
+</ul>
+</div>
+<img class="inlineimg onlinestatus" src="images/cqham/statusicon/user-offline.png" alt="Валерий вне форума" border="0" />
+</div>
+<span class="usertitle">
+</span> 
+<hr />
+<dl class="userinfo_extra">
+<dt>Регистрация
+</dt> 
+<dd>18.06.2006
+</dd>
+<dt>Сообщений
+</dt> 
+<dd>807
+</dd>
+<dt>Записей в дневнике
+</dt>
+<dd>
+<a href="blog.php?4596&amp;s=42d3d3f597b56b103339ae8e1bedac3a">1
+</a>
+</dd>
+<dt>Позывной
+</dt>  
+<dd>UY7QQ
+</dd>
+</dl>
+<div class="imlinks">    
+</div>
+</div>
+<div class="postbody_alt">
+<div class="postrow">
+<div class="content">
+<div id="post_message_512716">
+<blockquote class="postcontent restore ">Здравствуйте.
+<br />Очень приятно, что есть еще конструкторы, которые уделяют внимание звучанию апппарата и для этого используют лампы. Лампы еще долго будут жить.
+<br />Хотелось бы посмотреть схему. Хотя бы узлы.
+<br />Как все это получить?
+<br />Поздравляю с хорошей конструкцией.
+<br />Валерий, UY7QQ.
+<br />73!
+</blockquote>
+</div>
+</div>
+</div>
+<div class="cleardiv">
+</div>
+</div>
+</div>
+<div class="postfoot">
+<!-- 
+<div class="postfoot_container"> -->
+<div class="textcontrols floatcontainer">
+<span class="postcontrols">
+<img style="display:none" id="progress_512716" src="images/misc/progress.gif" alt="" />
+<a id="qrwq_512716" class="newreply" href="newreply.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newreply&amp;p=512716" rel="nofollow" title="   ">
+<img id="quoteimg_512716" src="clear.gif" alt="   " />     
+</a> 
+</span>
+<span class="postlinking">
+</span>
+<!-- 
+</div> -->
+</div>
+</div>
+<hr />
+</li>
+<li class="postbitlegacy postbitim" id="post_thanks_box_512716" style="display:none">
+</li> 
+<li class="postbitlegacy postbitim postcontainer old" id="post_512718">
+<!-- see bottom of postbit.css for .userinfo .popupmenu styles -->
+<div class="posthead">
+<span class="postdate old">
+<span class="date">04.05.2011,&nbsp;
+<span class="time">17:35
+</span>
+</span>
+</span>
+<span class="nodecontrols">
+<a name="post512718" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512718&amp;viewfull=1#post512718" class="postcounter">#9
+</a>
+<a id="postcount512718" name="9">
+</a>
+</span>
+</div>
+<div class="postdetails">
+<div class="userinfo">
+<div class="username_container">
+<div class="popupmenu memberaction">
+<a class="username offline popupctrl" href="member.php?3367-sgk&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="sgk вне форума">
+<strong>
+<span style="color: #008000">sgk
+</span>
+</strong>
+</a>
+<ul class="popupbody popuphover memberaction_body">
+<li class="left">
+<a href="member.php?3367-sgk&amp;s=42d3d3f597b56b103339ae8e1bedac3a" class="siteicon_profile">Просмотр профиля
+</a>
+</li>
+<li class="right">
+<a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=finduser&amp;userid=3367&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">Сообщения форума
+</a>
+</li>
+<li class="left">
+<a href="private.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newpm&amp;u=3367" class="siteicon_message" rel="nofollow">Личное сообщение
+</a>
+</li>
+<li class="right">
+<a href="blog.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=3367" class="siteicon_blog" rel="nofollow">Записи в дневнике
+</a>
+</li>
+</ul>
+</div>
+<img class="inlineimg onlinestatus" src="images/cqham/statusicon/user-offline.png" alt="sgk вне форума" border="0" />
+</div>
+<span class="usertitle">Модератор
+</span> 
+<hr />
+<dl class="userinfo_extra">
+<dt>Регистрация
+</dt> 
+<dd>23.10.2005
+</dd>
+<dt>Адрес
+</dt> 
+<dd>Ялта
+</dd>
+<dt>Сообщений
+</dt> 
+<dd>7,675
+</dd>
+</dl>
+<div class="imlinks">    
+</div>
+</div>
+<div class="postbody">
+<div class="postrow">
+<div class="content">
+<div id="post_message_512718">
+<blockquote class="postcontent restore ">
+<div class="bbcode_container">
+<div class="bbcode_quote">
+<div class="quote_container">
+<div class="bbcode_quote_container">
+</div>
+<div class="bbcode_postedby">
+<img src="images/misc/quote_icon.png" alt="Цитата" /> Сообщение от 
+<strong>LY3BD
+</strong>
+<a href="showthread.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512654#post512654" rel="nofollow">
+<img class="inlineimg" src="images/buttons/viewpost-right.png" alt="Посмотреть сообщение" />
+</a>
+</div>
+<div class="message">
+<font size="2">Динамический диапозон по интермодуляции третьего порядка, при разносе частот двухчастотного сигнала 15Кгц, более 80Дб.
+</font>
+<br />
+<font size="2">Более точно померить динамический диапазон не получилось, мешают шумы синтезатора. Они вылазят ранше чем появляются продукты интермодуляции. Синтезатор к сожалению не очень хороший по шумовым характеристикам. 
+</font>
+</div>
+</div>
+</div>
+</div>
+<font size="2">Добрый день.
+</font>
+<br />
+<font size="2">Для измерения IMD тракта можно вместо синтезатора подключить кварцевый генератор с заведомо меньшими фазовыми шумами.
+</font>
+<br />
+<font size="2">Сергей sgk.
+</font>
+</blockquote>
+</div>
+</div>
+</div>
+<div class="cleardiv">
+</div>
+</div>
+</div>
+<div class="postfoot">
+<!-- 
+<div class="postfoot_container"> -->
+<div class="textcontrols floatcontainer">
+<span class="postcontrols">
+<img style="display:none" id="progress_512718" src="images/misc/progress.gif" alt="" />
+<a id="qrwq_512718" class="newreply" href="newreply.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newreply&amp;p=512718" rel="nofollow" title="   ">
+<img id="quoteimg_512718" src="clear.gif" alt="   " />     
+</a> 
+</span>
+<span class="postlinking">
+</span>
+<!-- 
+</div> -->
+</div>
+</div>
+<hr />
+</li>
+<li class="postbitlegacy postbitim" id="post_thanks_box_512718" style="display:none">
+</li> 
+<li class="postbitlegacy postbitim postcontainer" id="after_first_post_yadirect">
+<div id="ya_direct_between_posts">
+<div class="posthead">
+<span class="postdate old">Реклама
+</span>
+</div>
+<div style="background-color: #FFFFFB; font-size: 8pt; float:left">
+<script type="text/javascript">//
+<![CDATA[yandex_partner_id = 45493;yandex_direct_place = '45493';yandex_site_bg_color = 'FFFFFF';yandex_site_charset = 'windows-1251';yandex_ad_format = 'direct';yandex_font_size = 1;yandex_font_family = 'arial';yandex_direct_type = 'horizontal';yandex_direct_limit = 4;yandex_direct_title_font_size = 1;yandex_direct_title_color = '006699';yandex_direct_title_font_size = 2;yandex_direct_url_color = '006699';yandex_direct_all_color = '000000';yandex_direct_text_color = '000000';yandex_direct_hover_color = '6699CC';yandex_direct_favicon = true;document.write('
+<sc'+'ript type="text/javascript" src="http://an.yandex.ru/system/context.js">
+</sc'+'ript>');//]]>
+</script>
+</div>
+<hr />
+</div>
+</li>
+<li class="postbitlegacy postbitim postcontainer old" id="post_512730">
+<!-- see bottom of postbit.css for .userinfo .popupmenu styles -->
+<div class="posthead">
+<span class="postdate old">
+<span class="date">04.05.2011,&nbsp;
+<span class="time">18:23
+</span>
+</span>
+</span>
+<span class="nodecontrols">
+<a name="post512730" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512730&amp;viewfull=1#post512730" class="postcounter">#10
+</a>
+<a id="postcount512730" name="10">
+</a>
+</span>
+</div>
+<div class="postdetails">
+<div class="userinfo">
+<div class="username_container">
+<div class="popupmenu memberaction">
+<a class="username offline popupctrl" href="member.php?4-Vadim&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Vadim вне форума">
+<strong>Vadim
+</strong>
+</a>
+<ul class="popupbody popuphover memberaction_body">
+<li class="left">
+<a href="member.php?4-Vadim&amp;s=42d3d3f597b56b103339ae8e1bedac3a" class="siteicon_profile">Просмотр профиля
+</a>
+</li>
+<li class="right">
+<a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=finduser&amp;userid=4&amp;contenttype=vBForum_Post&amp;showposts=1" class="siteicon_forum" rel="nofollow">Сообщения форума
+</a>
+</li>
+<li class="left">
+<a href="private.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newpm&amp;u=4" class="siteicon_message" rel="nofollow">Личное сообщение
+</a>
+</li>
+<li class="right">
+<a href="blog.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;u=4" class="siteicon_blog" rel="nofollow">Записи в дневнике
+</a>
+</li>
+</ul>
+</div>
+<img class="inlineimg onlinestatus" src="images/cqham/statusicon/user-offline.png" alt="Vadim вне форума" border="0" />
+</div>
+<span class="usertitle">
+</span> 
+<hr />
+<dl class="userinfo_extra">
+<dt>Регистрация
+</dt> 
+<dd>25.03.2002
+</dd>
+<dt>Адрес
+</dt> 
+<dd>г.Москва
+</dd>
+<dt>Сообщений
+</dt> 
+<dd>917
+</dd>
+</dl>
+<div class="imlinks">    
+</div>
+</div>
+<div class="postbody_alt">
+<div class="postrow">
+<div class="content">
+<div id="post_message_512730">
+<blockquote class="postcontent restore ">
+<div class="bbcode_container">
+<div class="bbcode_quote">
+<div class="quote_container">
+<div class="bbcode_quote_container">
+</div>
+<div class="bbcode_postedby">
+<img src="images/misc/quote_icon.png" alt="Цитата" /> Сообщение от 
+<strong>LY3BD
+</strong>
+<a href="showthread.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;p=512654#post512654" rel="nofollow">
+<img class="inlineimg" src="images/buttons/viewpost-right.png" alt="Посмотреть сообщение" />
+</a>
+</div>
+<div class="message">Хочу поделиться информацией по одной из своих разработок.  Приёмник звучит мягко, приятно на слух. Эфир &quot;выглядит прозрачно&quot;, не утомляет.
+</div>
+</div>
+</div>
+</div>Мне звук понравился! Спасибо. Действительно, получаешь удовольствие от такого звука... Интересно было бы послушать более слабые сигналы и сигнал в присутствие нескольких сигналов одновременно.
+<br /> 
+<br />С уважением, Вадим.
+</blockquote>
+</div>
+</div>
+</div>
+<div class="cleardiv">
+</div>
+</div>
+</div>
+<div class="postfoot">
+<!-- 
+<div class="postfoot_container"> -->
+<div class="textcontrols floatcontainer">
+<span class="postcontrols">
+<img style="display:none" id="progress_512730" src="images/misc/progress.gif" alt="" />
+<a id="qrwq_512730" class="newreply" href="newreply.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=newreply&amp;p=512730" rel="nofollow" title="   ">
+<img id="quoteimg_512730" src="clear.gif" alt="   " />     
+</a> 
+</span>
+<span class="postlinking">
+</span>
+<!-- 
+</div> -->
+</div>
+</div>
+<hr />
+</li>
+<li class="postbitlegacy postbitim" id="post_thanks_box_512730" style="display:none">
+</li> 
+</ol>
+<div class="separator">
+</div>
+<div class="postlistfoot">
+</div>
+</div>
+<div id="below_postlist" class="noinlinemod below_postlist">   
+<div id="pagination_bottom" class="pagination_bottom">
+<form action="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page101&amp;s=42d3d3f597b56b103339ae8e1bedac3a" method="get" class="pagination popupmenu nohovermenu">
+<input type="hidden" name="t" value="17385" />
+<input type="hidden" name="s" value="42d3d3f597b56b103339ae8e1bedac3a" />
+<span>
+<a href="javascript://" class="popupctrl">Страница 1 из 112
+</a>
+</span>
+<span class="selected">
+<a href="javascript://" title="Показано с 1 по 10 из 1,112">1
+</a>
+</span>
+<span>
+<a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page2&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 11 по 20 из 1,112">2
+</a>
+</span>
+<span>
+<a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page3&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 21 по 30 из 1,112">3
+</a>
+</span>
+<span>
+<a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page4&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 31 по 40 из 1,112">4
+</a>
+</span>
+<span>
+<a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page11&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 101 по 110 из 1,112">
+<!--+10-->11
+</a>
+</span>
+<span>
+<a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page51&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 501 по 510 из 1,112">
+<!--+50-->51
+</a>
+</span>
+<span>
+<a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page101&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Показать с 1,001 по 1,010 из 1,112">
+<!--+100-->101
+</a>
+</span>
+<span class="separator">...
+</span>
+<span class="prev_next">
+<a rel="next" href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page2&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Следующая страница - с 11 по 20 из 1,112">
+<img src="images/pagination/next-right.png" alt="Следующая" />
+</a>
+</span>
+<span class="first_last">
+<a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх/page112&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Последняя страница - с 1,111 по 1,112 из 1,112">Последняя
+<img src="images/pagination/last-right.png" alt="Последняя" />
+</a>
+</span>
+<ul class="popupbody popuphover">
+<li class="formsubmit jumptopage">
+<label>К странице: 
+<input type="text" name="page" size="4" />
+</label> 
+<input type="submit" class="button" value="Вперёд" />
+</li>
+</ul>
+</form>
+<div class="clear">
+</div>
+<div class="navpopupmenu popupmenu nohovermenu" id="showthread_navpopup">
+<span class="shade">Быстрый переход
+</span>
+<a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a" class="popupctrl">
+<span class="ctrlcontainer">Трансиверы, приемники КВ/УКВ
+</span>
+</a>
+<a href="showthread.php?17385-Р›Р°РјРїРѕРІС‹Р№-RX-СЃ-РїСЂРµРѕР±СЂР°Р·РѕРІР°РЅРёРµРј-РІРІРµСЂС…#top" class="textcontrol" onclick="document.location.hash='top';return false;">Вверх
+</a>
+<ul class="navpopupbody popupbody popuphover">
+<li class="optionlabel">Навигация
+</li>
+<li>
+<a href="usercp.php?s=42d3d3f597b56b103339ae8e1bedac3a">Кабинет
+</a>
+</li>
+<li>
+<a href="private.php?s=42d3d3f597b56b103339ae8e1bedac3a">Личные сообщения
+</a>
+</li>
+<li>
+<a href="subscription.php?s=42d3d3f597b56b103339ae8e1bedac3a">Подписки
+</a>
+</li>
+<li>
+<a href="online.php?s=42d3d3f597b56b103339ae8e1bedac3a">Кто на сайте
+</a>
+</li>
+<li>
+<a href="search.php?s=42d3d3f597b56b103339ae8e1bedac3a">Поиск по форуму
+</a>
+</li>
+<li>
+<a href="forum.php?s=42d3d3f597b56b103339ae8e1bedac3a">Главная страница форума
+</a>
+</li>
+<li class="optionlabel">Форум
+</li>
+<li>
+<a href="forumdisplay.php?4-ТЕХНИЧЕСКИЕ-ФОРУМЫ-НА-CQHAM-RU&amp;s=42d3d3f597b56b103339ae8e1bedac3a">ТЕХНИЧЕСКИЕ ФОРУМЫ НА CQHAM.RU
+</a>
+<ol class="d1">
+<li>
+<a href="forumdisplay.php?9-Трансиверы-приемники-КВ-УКВ&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Трансиверы, приемники КВ/УКВ
+</a>
+<ol class="d2">
+<li>
+<a href="forumdisplay.php?40-Kenwood&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Kenwood
+</a>
+<ol class="d3">
+<li>
+<a href="forumdisplay.php?59-TS-50&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-50
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?60-TS-140&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-140
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?61-TS-430&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-430
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?62-TS-440&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-440
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?63-TS-450&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-450
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?64-TS-480&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-480
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?76-TS-520&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-520
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?65-TS-570&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-570
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?66-TS-590&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-590
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?67-TS-680&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-680
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?68-TS-690&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-690
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?122-TS-790&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-790
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?69-TS-830&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-830
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?70-TS-850&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-850
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?71-TS-870&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-870
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?72-TS-930&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-930
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?73-TS-940&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-940
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?74-TS-950&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-950
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?129-TS-990&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-990
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?75-TS-2000&amp;s=42d3d3f597b56b103339ae8e1bedac3a">TS-2000
+</a>
+</li>
+</ol>
+</li>
+<li>
+<a href="forumdisplay.php?41-Icom&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Icom
+</a>
+<ol class="d3">
+<li>
+<a href="forumdisplay.php?45-IC-746-(IC-7400)&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-746 (IC-7400)
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?46-IC-756&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-756
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?47-IC-706&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-706
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?48-IC-775-IC-775DSP-IC-775DX2&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-775, IC-775DSP, IC-775DX2
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?49-IC-7600&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-7600
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?50-IC-7800&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-7800
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?51-IC-7700&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-7700
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?52-IC-910&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-910
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?53-IC-703&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-703
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?54-IC-7000&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-7000
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?55-IC-780-781&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-780, 781
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?56-IC-7200&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-7200
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?57-IC-718-(IC-78)&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-718 (IC-78)
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?58-IC-760-(IC-761)&amp;s=42d3d3f597b56b103339ae8e1bedac3a">IC-760 (IC-761)
+</a>
+</li>
+</ol>
+</li>
+<li>
+<a href="forumdisplay.php?42-Yaesu&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Yaesu
+</a>
+<ol class="d3">
+<li>
+<a href="forumdisplay.php?140-FT-100&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-100
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?78-FT-101&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-101
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?79-FT-450&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-450
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?80-FT-757&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-757
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?81-FT-767&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-767
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?82-FT-817&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-817
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?83-FT-840&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-840
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?84-FT-847&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-847
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?85-FT-857&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-857
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?86-FT-890&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-890
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?87-FT-897&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-897
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?88-FT-900&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-900
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?89-FT-920&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-920
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?90-FT-950&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-950
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?91-FT-990&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-990
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?92-FT-1000&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-1000
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?93-FT-2000&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-2000
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?141-FT-DX3000&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-DX3000
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?94-FT-DX5000&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-DX5000
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?95-FT-DX9000&amp;s=42d3d3f597b56b103339ae8e1bedac3a">FT-DX9000
+</a>
+</li>
+</ol>
+</li>
+<li>
+<a href="forumdisplay.php?96-Ten-Tec&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Ten-Tec
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?98-Elecraft&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Elecraft
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?97-Alinco&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Alinco
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?132-UW3DI&amp;s=42d3d3f597b56b103339ae8e1bedac3a">UW3DI
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?133-UA1FA&amp;s=42d3d3f597b56b103339ae8e1bedac3a">UA1FA
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?134-RA3AO&amp;s=42d3d3f597b56b103339ae8e1bedac3a">RA3AO
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?143-SW&amp;s=42d3d3f597b56b103339ae8e1bedac3a">SW
+</a>
+</li>
+</ol>
+</li>
+<li>
+<a href="forumdisplay.php?21-Усилители-мощности&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Усилители мощности
+</a>
+<ol class="d2">
+<li>
+<a href="forumdisplay.php?113-КВ-усилители&amp;s=42d3d3f597b56b103339ae8e1bedac3a">КВ усилители
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?114-УКВ-усилители&amp;s=42d3d3f597b56b103339ae8e1bedac3a">УКВ усилители
+</a>
+</li>
+</ol>
+</li>
+<li>
+<a href="forumdisplay.php?10-Антенны&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Антенны
+</a>
+<ol class="d2">
+<li>
+<a href="forumdisplay.php?99-Антенны-КВ&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Антенны КВ
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?119-Антенны-УКВ&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Антенны УКВ
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?102-Согласующие-устройства&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Согласующие устройства
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?101-Антенные-приборы&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Антенные приборы
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?103-Антенная-механика&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Антенная механика
+</a>
+</li>
+</ol>
+</li>
+<li>
+<a href="forumdisplay.php?22-Техника-прямого-преобразования&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Техника прямого преобразования
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?7-Технический-кабинет&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Технический кабинет
+</a>
+<ol class="d2">
+<li>
+<a href="forumdisplay.php?142-Измерения&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Измерения
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?144-Технологии&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Технологии
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?124-Помехи&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Помехи
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?130-Непроверенные-идеи&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Непроверенные идеи
+</a>
+</li>
+</ol>
+</li>
+<li>
+<a href="forumdisplay.php?8-Модификация-радиостанций&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Модификация радиостанций
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?27-Конструкции-на-микроконтроллерах-для-радиолюбителей&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Конструкции на микроконтроллерах для радиолюбителей
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?23-Старое-радио-(Ламповые-души)&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Старое радио (Ламповые души)
+</a>
+<ol class="d2">
+<li>
+<a href="forumdisplay.php?127-История-радиосвязи&amp;s=42d3d3f597b56b103339ae8e1bedac3a">История радиосвязи
+</a>
+</li>
+</ol>
+</li>
+<li>
+<a href="forumdisplay.php?39-Бытовая-техника-мой-автомобиль&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Бытовая техника, мой автомобиль
+</a>
+<ol class="d2">
+<li>
+<a href="forumdisplay.php?125-Оргтехника&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Оргтехника
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?126-ТВ&amp;s=42d3d3f597b56b103339ae8e1bedac3a">ТВ
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?145-Авто-Мото&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Авто-Мото
+</a>
+</li>
+</ol>
+</li>
+<li>
+<a href="forumdisplay.php?77-Источники-питания&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Источники питания
+</a>
+</li>
+</ol>
+</li>
+<li>
+<a href="forumdisplay.php?34-РАДИОЛЮБИТЕЛЬСКИЕ-ФОРУМЫ&amp;s=42d3d3f597b56b103339ae8e1bedac3a">РАДИОЛЮБИТЕЛЬСКИЕ ФОРУМЫ
+</a>
+<ol class="d1">
+<li>
+<a href="forumdisplay.php?16-Для-любителей-КВ&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Для любителей КВ
+</a>
+<ol class="d2">
+<li>
+<a href="forumdisplay.php?104-DX-новости&amp;s=42d3d3f597b56b103339ae8e1bedac3a">DX-новости
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?105-Экспедиции&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Экспедиции
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?106-Соревнования&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Соревнования
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?107-Дипломы&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Дипломы
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?108-Прохождение&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Прохождение
+</a>
+</li>
+</ol>
+</li>
+<li>
+<a href="forumdisplay.php?13-Для-любителей-УКВ&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Для любителей УКВ
+</a>
+<ol class="d2">
+<li>
+<a href="forumdisplay.php?118-УКВ-техника&amp;s=42d3d3f597b56b103339ae8e1bedac3a">УКВ техника
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?100-УКВ-антенны&amp;s=42d3d3f597b56b103339ae8e1bedac3a">УКВ антенны
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?120-УКВ-соревнования-дипломы&amp;s=42d3d3f597b56b103339ae8e1bedac3a">УКВ соревнования, дипломы
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?121-Программы-для-УКВ&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Программы для УКВ
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?109-Тропо-Аврора-и-Еs&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Тропо, Аврора и Еs
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?110-ЕМЕ-связи&amp;s=42d3d3f597b56b103339ae8e1bedac3a">ЕМЕ связи
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?111-MS-связи&amp;s=42d3d3f597b56b103339ae8e1bedac3a">MS связи
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?112-SAT-связи&amp;s=42d3d3f597b56b103339ae8e1bedac3a">SAT связи
+</a>
+</li>
+</ol>
+</li>
+<li>
+<a href="forumdisplay.php?135-Для-любителей-QRP-и-QRPP&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Для любителей QRP и QRPP
+</a>
+<ol class="d2">
+<li>
+<a href="forumdisplay.php?138-Пешие-походы&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Пешие походы
+</a>
+</li>
+</ol>
+</li>
+<li>
+<a href="forumdisplay.php?11-Программное-обеспечение&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Программное обеспечение
+</a>
+<ol class="d2">
+<li>
+<a href="forumdisplay.php?117-Софт-для-мобильных-устройств&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Софт для мобильных устройств
+</a>
+</li>
+</ol>
+</li>
+<li>
+<a href="forumdisplay.php?29-Коллективы-и-Радио&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Коллективы и Радио
+</a>
+<ol class="d2">
+<li>
+<a href="forumdisplay.php?146-Silent-Keys&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Silent Keys
+</a>
+</li>
+</ol>
+</li>
+<li>
+<a href="forumdisplay.php?14-Правовой-практикум-радиолюбителя&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Правовой практикум радиолюбителя
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?20-Для-начинающих&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Для начинающих
+</a>
+</li>
+</ol>
+</li>
+<li>
+<a href="forumdisplay.php?35-НОВОЕ-В-РАДИОЛЮБИТЕЛЬСКОЙ-СВЯЗИ&amp;s=42d3d3f597b56b103339ae8e1bedac3a">НОВОЕ В РАДИОЛЮБИТЕЛЬСКОЙ СВЯЗИ
+</a>
+<ol class="d1">
+<li>
+<a href="forumdisplay.php?25-Цифровые-виды-связи-Новые-технологии-в-электронике-и-связи&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Цифровые виды связи  Новые технологии в электронике и связи
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?26-Software-Defined-Radio-(SDR)-Digital-Radio-Mondiale-(DRM)&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Software Defined Radio (SDR), Digital Radio Mondiale (DRM)
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?28-APRS-и-другие-виды-пакетной-связи&amp;s=42d3d3f597b56b103339ae8e1bedac3a">APRS и другие виды пакетной связи
+</a>
+<ol class="d2">
+<li>
+<a href="forumdisplay.php?147-Новости-и-события&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Новости и события
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?148-Применение-APRS-на-КВ-и-УКВ&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Применение APRS на КВ и УКВ
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?149-Аппаратура-APRS&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Аппаратура APRS
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?156-Самодельная-аппаратура-APRS&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Самодельная аппаратура APRS
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?150-Программное-обеспечение&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Программное обеспечение
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?153-Различное-применение-APRS&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Различное применение APRS
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?155-Цифровые-виды-связи-для-передачи-данных&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Цифровые виды связи для передачи данных
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?131-Радиолюбительские-карты&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Радиолюбительские карты
+</a>
+</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>
+<a href="forumdisplay.php?36-ПОДДЕРЖКА-ПОЛЬЗОВАТЕЛЕЙ-CQHAM-RU&amp;s=42d3d3f597b56b103339ae8e1bedac3a">ПОДДЕРЖКА ПОЛЬЗОВАТЕЛЕЙ CQHAM.RU
+</a>
+<ol class="d1">
+<li>
+<a href="forumdisplay.php?19-О-форумах-на-CQHAM-RU&amp;s=42d3d3f597b56b103339ae8e1bedac3a">О форумах на CQHAM.RU
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?38-Тестовый-форум&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Тестовый форум
+</a>
+</li>
+</ol>
+</li>
+<li>
+<a href="forumdisplay.php?37-OFF-TOPIC&amp;s=42d3d3f597b56b103339ae8e1bedac3a">OFF-TOPIC
+</a>
+<ol class="d1">
+<li>
+<a href="forumdisplay.php?12-Темы-не-вошедшие-в-другие-разделы-форума&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Темы не вошедшие в другие разделы форума
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?18-Работа-для-радиолюбителя&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Работа для радиолюбителя
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?17-Продавцы-покупатели&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Продавцы, покупатели...
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?15-Ищу-тебя&amp;s=42d3d3f597b56b103339ae8e1bedac3a">Ищу тебя
+</a>
+</li>
+<li>
+<a href="forumdisplay.php?139-QRZ-RU&amp;s=42d3d3f597b56b103339ae8e1bedac3a">QRZ.RU
+</a>
+</li>
+</ol>
+</li>
+</ul>
+</div>
+<div class="clear">
+</div>
+</div>
+</div>
+<!-- next / previous links -->
+<div class="navlinks">
+<strong>&laquo;
+</strong>
+<a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;goto=nextoldest" rel="nofollow">Предыдущая тема
+</a>|
+<a href="showthread.php?17385-Ламповый-RX-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a&amp;goto=nextnewest" rel="nofollow">Следующая тема
+</a>
+<strong>&raquo;
+</strong>
+</div>
+<!-- / next / previous links -->
+<div id="thread_info" class="thread_info block">
+<h4 class="threadinfohead blockhead">Информация о теме
+</h4>
+<div id="thread_onlineusers" class="thread_info_block blockbody formcontrols">
+<div class="inner_block">
+<h5>Пользователи, просматривающие эту тему
+</h5>
+<div>
+<p>Эту тему просматривают: 2 
+<span class="shade">(пользователей: 0 , гостей: 2)
+</span>
+</p>
+<ol class="commalist">
+</ol>
+</div>
+</div>
+</div>
+<div id="similar_threads">
+<h4 class="threadinfohead blockhead">Похожие темы
+</h4>
+<div id="similar_threads_list" class="thread_info_block blockbody formcontrols">
+<ol class="similar_threads">
+<li class="floatcontainer">  
+<div class="titleblock">    
+<h6>
+<a href="showthread.php?15986-РПУ-с-преобразованием-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Здравствуйте уважаемые форумчане! Прежде всего, хочу поздравить всех с наступающим 2011годом!:-P дАвече, прогуливаясь по радиорынку, наткнулся на...">РПУ с преобразованием вверх
+</a>
+</h6>    
+<div class="starter_forum">       от Lee в разделе Трансиверы, приемники КВ/УКВ    
+</div>  
+</div>  
+<div class="dateblock">    
+<span class="shade">Ответов:
+</span> 298      
+<div class="starter_forum">        
+<span class="shade">Последнее сообщение:
+</span> 06.02.2013, 
+<span class="time">21:55
+</span>      
+</div>  
+</div>
+</li>
+<li class="floatcontainer">  
+<div class="titleblock">    
+<h6>
+<a href="showthread.php?21455-Трансивер-на-основе-SA612-с-преобразованием-quot-вверх-quot&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Здравствуйте уважаемые форумчане!  Есть огромное желание и возможность собрать данную конструкцию. Встречал схемы трансиверов на sa612 только с ПЧ...">Трансивер на основе SA612 с преобразованием &quot;вверх&quot;
+</a>
+</h6>    
+<div class="starter_forum">       от mike84 в разделе Трансиверы, приемники КВ/УКВ    
+</div>  
+</div>  
+<div class="dateblock">    
+<span class="shade">Ответов:
+</span> 31      
+<div class="starter_forum">        
+<span class="shade">Последнее сообщение:
+</span> 03.07.2012, 
+<span class="time">22:22
+</span>      
+</div>  
+</div>
+</li>
+<li class="floatcontainer">  
+<div class="titleblock">    
+<h6>
+<a href="showthread.php?17864-Первая-пч-10-7мгц-с-преобразованием-в-верх&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Друг попросил собрать трансивер на нч диапазоны с  первой пч 10.7мгц с преобразованием в верх с уводом на 500кгц Так как у него есть фильтр 10.7 с...">Первая пч 10.7мгц с преобразованием в верх
+</a>
+</h6>    
+<div class="starter_forum">       от UR5VFT в разделе Технический кабинет    
+</div>  
+</div>  
+<div class="dateblock">    
+<span class="shade">Ответов:
+</span> 11      
+<div class="starter_forum">        
+<span class="shade">Последнее сообщение:
+</span> 09.09.2011, 
+<span class="time">09:00
+</span>      
+</div>  
+</div>
+</li>
+<li class="floatcontainer">  
+<div class="titleblock">    
+<h6>
+<a href="showthread.php?15917-Несложный-трансивер-с-двойным-преобразованием&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="А как смотрите на такой проект?">Несложный трансивер с двойным преобразованием
+</a>
+</h6>    
+<div class="starter_forum">       от Валерий в разделе Для начинающих    
+</div>  
+</div>  
+<div class="dateblock">    
+<span class="shade">Ответов:
+</span> 30      
+<div class="starter_forum">        
+<span class="shade">Последнее сообщение:
+</span> 25.12.2010, 
+<span class="time">18:00
+</span>      
+</div>  
+</div>
+</li>
+<li class="floatcontainer">  
+<div class="titleblock">    
+<h6>
+<a href="showthread.php?8062-Какая-антенна-лучше-InV-с-лучами-вниз-или-вверх&amp;s=42d3d3f597b56b103339ae8e1bedac3a" title="Антенна для дачного участка. Можно поставить одну мачту и от нее опустить плечи диполя вниз. Получится InV то что называется классическая. А если с...">Какая антенна лучше: InV с лучами вниз или вверх?
+</a>
+</h6>    
+<div class="starter_forum">       от R0SBD в разделе Антенны    
+</div>  
+</div>  
+<div class="dateblock">    
+<span class="shade">Ответов:
+</span> 39      
+<div class="starter_forum">        
+<span class="shade">Последнее сообщение:
+</span> 28.05.2008, 
+<span class="time">11:47
+</span>      
+</div>  
+</div>
+</li>
+</ol>
+</div>
+</div>
+<div class="options_block_container">
+<div class="options_block">
+<h4 class="collapse blockhead options_correct">
+<a class="collapse" id="collapse_posting_rules" href="showthread.php?17385-Р›Р°РјРїРѕРІС‹Р№-RX-СЃ-РїСЂРµРѕР±СЂР°Р·РѕРІР°РЅРёРµРј-РІРІРµСЂС…#top">
+<img src="images/buttons/collapse_40b.png" alt="" />
+</a>Ваши права
+</h4>
+<div id="posting_rules" class="thread_info_block blockbody formcontrols floatcontainer options_correct">
+<div id="forumrules" class="info_subblock">
+<ul class="youcandoblock">
+<li>Вы 
+<strong>не можете
+</strong> создавать новые темы
+</li>
+<li>Вы 
+<strong>не можете
+</strong> отвечать в темах
+</li>
+<li>Вы 
+<strong>не можете
+</strong> прикреплять вложения
+</li>
+<li>Вы 
+<strong>не можете
+</strong> редактировать свои сообщения
+</li>
+<li>&nbsp;
+</li>
+</ul>
+<div class="bbcodeblock">
+<ul>
+<li>
+<a href="misc.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=bbcode" target="_blank">BB коды
+</a> 
+<strong>Вкл.
+</strong>
+</li>
+<li>
+<a href="misc.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=showsmilies" target="_blank">Смайлы
+</a> 
+<strong>Вкл.
+</strong>
+</li>
+<li>
+<a href="misc.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=bbcode#imgcode" target="_blank">[IMG]
+</a> код 
+<strong>Вкл.
+</strong>
+</li>
+<li>
+<a href="misc.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=bbcode#videocode" target="_blank">[VIDEO]
+</a> код 
+<strong>Вкл.
+</strong>
+</li>
+<li>HTML код 
+<strong>Выкл.
+</strong>
+</li>
+</ul>
+</div>
+<p class="rules_link">
+<a href="misc.php?s=42d3d3f597b56b103339ae8e1bedac3a&amp;do=showrules" target="_blank">Правила форума
+</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="clear: left">     
+<div id="ad_global_above_footer">
+<!--выше google-->
+<div style="background-color: #FFFFFB">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+</script>
+<!-- 970 для низа форума -->
+<ins class="adsbygoogle"     style="display:inline-block;width:970px;height:90px"     data-ad-client="ca-pub-8918103505273586"     data-ad-slot="8940420109">
+</ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+<br>
+<table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="#f0f3f7">  
+<tr>    
+<td width="100%">
+<div align="center">
+<center>
+<table border="0" cellpadding="5" cellspacing="0" bgcolor="#f0f3f7" width="397">
+<tr>
+<td width="30">
+<a href="http://www.cqham.ru/ric.htm">
+<img border="0" src="http://www.cqham.ru/ric.gif" alt="Russian Internet Callbook" width="44" height="22">
+</a>
+</td>
+<td width="31">
+<a href="http://www.cqham.ru/hamftp.htm">
+<img    src="http://www.cqham.ru/disk2.gif"    alt="Файловый архив сервера. Содержит программы радиолюбительской тематики и не только..."    border="0" width="32" height="32">
+</a>
+</td>
+<td width="34">
+<a href="http://www.cqham.ru/hamlinks.htm">
+<img    src="http://www.cqham.ru/go.gif"    alt="Ссылки на личные странички Кубанских радиолюбителей, а также на другие места в интернете, свяэанные с радиолюбительством."    border="0" width="32" height="32">
+</a>
+</td>
+<td width="34">
+<a href="http://www.cqham.ru/info.htm">
+<img    src="http://www.cqham.ru/info1.gif"    alt="Информация Госсвязьнадзора по Краснодарскому краю. Здесь же список УКВ любительских ретрансляторов расположеных на территории Краснодарского края."    border="0" width="32" height="32">
+</a>
+</td>
+<td width="34">
+<a href="http://www.cqham.ru/cons.htm">
+<img    src="http://www.cqham.ru/d2.gif"    alt="Схемы и описания трансиверов, усилителей, антенн и другой радиолюбительской аппаратуры. Конструкции Кубанских радиолюбителей. Справочные данные." border="0"    width="32" height="32">
+</a>
+</td>
+<td width="34">
+<a href="http://board.cqham.ru/">
+<img    src="http://www.cqham.ru/pinup0b.gif"    alt="Доска обьявлений сервера. Бесплатные обьявления радиолюбительской тематики - " продам, обменяю....""    border="0" width="32" height="32" куплю,>
+</a>
+</td>
+<td width="67" style="font-size: 20px; font-family: Comic Sans MS; color: #3E86AC; font-weight: bold">
+<a href="http://www.cqham.ru/index.html">HOME
+</a>
+</td>
+</tr>
+</table>
+</center>
+</div>
+</td>  
+</tr>
+</table>
+</div>
+<div id="footer" class="floatcontainer footer">
+<form action="forum.php" method="get" id="footer_select" class="footer_select">
+<select name="styleid" onchange="switch_id(this, 'style')">
+<optgroup label="Выбор стиля">
+<option class="hidden">
+</option>
+</optgroup>
+<optgroup label="&nbsp;Стандартные стили">
+<option value="18" class="" selected="selected">-- CQHAM
+</option>
+</optgroup>
+<optgroup label="&nbsp;Мобильные стили">
+<option value="19" class="" >-- CQHAM Mobile
+</option>
+</optgroup>
+</select>
+<select name="langid" onchange="switch_id(this, 'lang')">
+<optgroup label="Выбор языка">
+<option value="1" class="" >-- English (EN)
+</option>
+<option value="2" class="" selected="selected">-- Russian (RU)
+</option>
+</optgroup>
+</select>
+</form>
+<ul id="footer_links" class="footer_links">
+<li>
+<a href="sendmessage.php?s=42d3d3f597b56b103339ae8e1bedac3a" rel="nofollow" accesskey="9">Обратная связь
+</a>
+</li>
+<li>
+<a href="http://www.cqham.ru">CQHAM.RU
+</a>
+</li>
+<li>
+<a href="archive/index.php?s=42d3d3f597b56b103339ae8e1bedac3a">Архив
+</a>
+</li>
+<li>
+<a href="showthread.php?17385-Р›Р°РјРїРѕРІС‹Р№-RX-СЃ-РїСЂРµРѕР±СЂР°Р·РѕРІР°РЅРёРµРј-РІРІРµСЂС…#top" onclick="document.location.hash='top'; return false;">Вверх
+</a>
+</li>
+</ul>
+<script type="text/javascript">
+<!--// Main vBulletin Javascript InitializationvBulletin_init();//-->
+</script>        
+</div>
+</div> 
+<!-- closing div for body_wrapper -->
+<div class="below_body">
+<div id="footer_time" class="shade footer_time">Текущее время: 
+<span class="time">23:10
+</span>. Часовой пояс GMT +3.
+</div>
+<noindex>
+<div id="footer_copyright" class="shade footer_copyright">
+<!-- Do not remove this copyright notice -->Powered by 
+<a href="https://www.vbulletin.com" id="vbulletinlink">vBulletin&reg;
+</a> Version 4.1.12 
+<br />Copyright &copy; 2016 vBulletin Solutions, Inc. All rights reserved.
+<br />Перевод: 
+<a href="http://www.zcarot.com/" target="_blank">zCarot
+</a>
+<br />Forum Modifications By 
+<a href="http://www.marcomamdouh.com/" title="Marco Mamdouh">Marco Mamdouh
+</a>
+<!-- Do not remove this copyright notice -->
+</noindex>
+<table border="0" width="100%" cellspacing="0" cellpadding="3" style="font-family: Arial; font-size: 10px">
+<tr>
+<td>
+<!--417323794992-->
+</td>
+</tr>
+</table>
+</div>
+<div id="footer_morecopyright" class="shade footer_morecopyright">
+<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+<!-- Do not remove cronimage or your scheduled tasks will cease to function -->
+</div> 
+</div>
+</body>
+</html>
