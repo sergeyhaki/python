@@ -17,6 +17,12 @@ while True:
 	text = text+line	
 #print text
 
+############PAGES#############
+pattern =  re.compile(r'.+<a href="javascript://" class="popupctrl" id="yui-gen11">\D+ \d+ \D+ (\d+)</a>.+', flags = re.DOTALL)
+pages = pattern.match(text).group(1)
+print pages
+##############################
+
 aresult = text.split('<blockquote class="postcontent restore ">')
 aresult.pop(0)  #удалить 0 элемент списка
 
@@ -62,5 +68,7 @@ print html
 #
 def foo():
 	pass
+	
+#pages = re.sub(r'\D+ \d+ \D+ ','', pattern.match(text).group(1) , flags = re.DOTALL)
 '''
 
